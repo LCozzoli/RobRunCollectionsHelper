@@ -759,8 +759,8 @@
    ],
    "name_fr": "Bouteille Happy Forester",
    "sprite_size": [
-    113,
-    225
+    83,
+    231
    ],
    "names": {
     "en": "Happy Forester Bottle",
@@ -1375,8 +1375,8 @@
    ],
    "name_fr": "Autoradio bon marché",
    "sprite_size": [
-    124,
-    124
+    210,
+    113
    ],
    "names": {
     "en": "Cheap Car Stereo",
@@ -1522,8 +1522,8 @@
    ],
    "name_fr": "Boussole moderne",
    "sprite_size": [
-    124,
-    124
+    121,
+    128
    ],
    "names": {
     "en": "Modern Compass",
@@ -2951,7 +2951,7 @@
    ],
    "name_fr": "Caméra embarquée haut de gamme",
    "sprite_size": [
-    190,
+    124,
     124
    ],
    "names": {

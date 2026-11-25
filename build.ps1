@@ -15,24 +15,37 @@ $ErrorActionPreference = 'Stop'
 $env:PYTHONUTF8 = '1'
 Set-Location -LiteralPath $PSScriptRoot
 
+# Python to use: the project's virtual environment when there is one, otherwise the one on the PATH.
+$python = @('.venv\Scripts\python.exe', 'venv\Scripts\python.exe') | Where-Object { Test-Path $_ } | Select-Object -First 1
+if (-not $python) { $python = 'python' }
+Write-Host "== Python: $python" -ForegroundColor Cyan
+
 if ($Test) {
     foreach ($script in 'test_detection.py', 'test_folder.py', 'test_interface.py') {
         Write-Host "== tests\$script" -ForegroundColor Cyan
-        python "tests\$script"
+        & $python "tests\$script"
         if ($LASTEXITCODE -ne 0) { throw "tests\$script failed" }
     }
 }
 
 # PyInstaller only bundles what the current Python can import: refuse to build an executable without OpenCV etc.
-python -c "import cv2, numpy, PIL, send2trash, PyInstaller" 2>$null
-if ($LASTEXITCODE -ne 0) {
-    throw "Missing Python packages. Run:  python -m pip install -r requirements.txt  (in the Python used to build)"
+# (Windows PowerShell turns a native command's error output into an exception: check with errors allowed.)
+$missing = @()
+foreach ($module in 'cv2', 'numpy', 'PIL', 'send2trash', 'PyInstaller') {
+    $ErrorActionPreference = 'Continue'
+    & $python -c "import $module" 2>&1 | Out-Null
+    $failed = $LASTEXITCODE -ne 0
+    $ErrorActionPreference = 'Stop'
+    if ($failed) { $missing += $module }
+}
+if ($missing) {
+    throw "Missing Python packages ($($missing -join ', ')) in $python. Run:  & $python -m pip install -r requirements.txt"
 }
 
 Write-Host '== Building dist\RobRunCollections.exe' -ForegroundColor Cyan
 $data = (Resolve-Path 'src\data').Path
 $icon = Join-Path $data 'app.ico'
-python -m PyInstaller --noconfirm --onefile --windowed --name RobRunCollections `
+& $python -m PyInstaller --noconfirm --onefile --windowed --name RobRunCollections `
     --add-data "$data;data" --icon "$icon" `
     --distpath dist --workpath build --specpath build src\app.py
 if ($LASTEXITCODE -ne 0) { throw 'PyInstaller failed' }

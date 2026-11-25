@@ -10,6 +10,11 @@
 </p>
 
 <p align="center">
+  <b>No install?</b> Use the web version: <a href="https://robrun.segfault.gg"><b>robrun.segfault.gg</b></a>
+  — share your game window in the browser and items are framed live.
+</p>
+
+<p align="center">
   <img src="docs/images/detection.png" width="820" alt="Detection tab: collection items framed on the screenshot, sets in progress on the right">
 </p>
 
@@ -18,6 +23,7 @@
 ## Contents
 
 - [Features](#features)
+- [Web version](#web-version)
 - [Install](#install)
 - [How to use](#how-to-use)
 - [How it works](#how-it-works)
@@ -45,6 +51,26 @@
 <p align="center">
   <img src="docs/images/collections.png" width="820" alt="Collections tab: Basic collections grouped by game location">
 </p>
+
+## Web version
+
+[**robrun.segfault.gg**](https://robrun.segfault.gg) runs the same detection in the browser, on a live screen
+share instead of screenshots:
+
+1. Open the site in Chrome, Edge, Opera, Brave or Firefox on a computer.
+2. Click **Share your game window** and pick the ROB RUN window.
+3. Open your bag, a storage or a car trunk: collection items are framed live, with nothing to press.
+
+| | Windows app | Web version |
+|---|---|---|
+| Install | Installer or stand-alone `.exe` | None |
+| Input | <kbd>F12</kbd> Steam screenshots | Live window share |
+| Refresh | On each screenshot | Continuous (video frame rate) |
+| Inverse lookup (frame what to throw away) | — | Yes |
+| Works offline | Yes | No (needs the site) |
+
+Everything is analyzed locally in the browser: no image or video is uploaded. Source code:
+[RobRunWebCollectionsHelper](https://github.com/LCozzoli/RobRunWebCollectionsHelper).
 
 ## Install
 
