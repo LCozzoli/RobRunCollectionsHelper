@@ -1,0 +1,135 @@
+COLLECTIONS HELPER — for ROB RUN
+User guide · https://github.com/LCozzoli/RobRunCollectionsHelper
+
+GETTING STARTED
+Launch Collections Helper and keep it open while you play.
+At every start the app looks for ROB RUN's Steam screenshot folder
+(Steam\userdata\<account>\760\remote\4262460\screenshots) in every Steam
+installation of the PC. With several Steam accounts, the folder holding the
+most recent screenshot is used. A folder chosen by hand is remembered; if it
+disappears, automatic search resumes.
+
+Steam only creates that folder with your first F12 screenshot in ROB RUN. If it
+does not exist yet, a "First screenshot" window explains it: take a screenshot
+with F12 in game, then click "I took a screenshot". The folder is then found
+by itself; otherwise you are asked to choose it (for example if you capture
+with another key or another tool). "Later" closes the window; clicking the
+"No folder yet" banner or Options › "Find the Steam folder automatically"
+opens it again.
+
+In game, open your bag, a car trunk or a storage (chest, nightstand…) and
+press F12. When both inventories are visible, they are analyzed together.
+The folder is checked every 100 ms and a complete screenshot is analyzed as
+soon as it appears. The bag and trunk positions are remembered from one
+screenshot to the next, so later screenshots are faster.
+
+COLORS
+Green: basic and additional collections (14 recipes).
+Violet: Purple, special collections (10 recipes).
+Gold: Gold, unique collections (10 recipes).
+The color shows the collection, not necessarily the item's rarity.
+The catalogue holds 108 distinct items and the 34 possible recipes.
+
+DETECTION TAB
+"Screenshots" banner: watched folder and watching status. Click the folder
+name (or "Change") to pick another one; right-click for automatic search or
+to open the folder. Click "WATCHING" to pause or resume.
+Below it, a one-line summary of the last analysis.
+Basic / Purple / Gold / Bag / Trunk chips: their number counts the items
+found; a click hides or shows those items. "Zoom" enlarges the inventories.
+On the screenshot, items worth keeping are framed; every other slot of the
+inventories is dimmed. Frames follow the game's full slots (1×1, 1×2, 2×1…).
+Hover a frame: its name, color and recipes, and the item lights up in its
+sets. Hover an item of a set: its slots light up on the screenshot, and the
+tooltip tells where it is or, if missing, where to find it. Click a frame or
+an item: its recipes. Click a set number: that set in the Collections tab.
+"SETS IN PROGRESS" lists every collection touched by the screenshot: found
+items lit, missing ones faded, with progress ("3/4", bar, "Complete"). The
+most complete sets come first. An item used by two collections is in both.
+If an analysis ends while you are in Collections, the tab shows
+"Detection ● N" and the taskbar icon flashes when the window is inactive.
+
+COLLECTIONS TAB
+Identical tiles (number + item icons) on two pages when "All" is selected
+without a search: page 1 Basic, page 2 Purple and Gold. Switch pages with the
+selector at the top, ← → or Page Up / Page Down. At 1920×1080 each page fits
+without scrolling; tile size follows the window. A color filter or a search
+shows every result on a single page.
+  BASIC · $50,000 / collection: one row per game location (bar, gas
+    station, gear, gun shop, jewelry store, pharmacy, electronics; name on
+    hover), base collection (01 to 07) then its additional twin (08 to 14);
+  PURPLE · $150,000 / collection: 10 special collections;
+  GOLD · $500,000 / collection: 10 unique collections.
+Price = reward crate value, before the Notoriety bonus (up to +25%).
+"×10" marks a required quantity other than 1.
+Hover an item: its name, collection and origin (where to buy it and at what
+price, which furniture to search, which places have random spots, or heist
+containers). ● = guaranteed, ○ = random.
+Right-click an item: all its recipes, or its robrunstash page in your browser.
+Search (Ctrl+F) by collection name, number or item, in any game language,
+ignoring accents; ✕ or Esc clears it. Matching items are framed.
+A check mark shows the items visible on your last screenshot; the "Spotted"
+chip shows only those recipes.
+
+OPTIONS (⚙)
+— Reanalyze the last screenshot (F5), analyze another image (Ctrl+O).
+— Change the folder, find it automatically in Steam, open it.
+— Set the bag or trunk area by hand, restore automatic areas (also by
+  right-clicking the screenshot).
+— Watch the folder.
+— Move analyzed screenshots to the Recycle Bin: also the "Auto Recycle Bin"
+  toggle next to "WATCHING". On by default; one click turns it off and the
+  choice is kept. Only a screenshot from the watched folder that was analyzed
+  successfully is moved to the Windows Recycle Bin (recoverable), after the
+  result is shown and saved. Images opened from another folder, thumbnails,
+  unreadable screenshots or files changed during analysis are never touched.
+— Language: "Automatic" follows the language chosen in ROB RUN, otherwise the
+  one set for the game in Steam, otherwise Windows'. 13 languages: English,
+  French, German, Spanish, Portuguese, Russian (the game's six: item and place
+  names as in the game), Italian, Polish, Turkish, Ukrainian, Simplified
+  Chinese, Japanese, Korean (item names in English). Changing the language
+  restarts the window; settings and screenshots are kept.
+— Zoom on inventories; keep the window on top (game in windowed or borderless
+  mode; exclusive full screen may hide it).
+Window size and position are remembered.
+
+SHORTCUTS
+F1 help · F5 reanalyze · Ctrl+O analyze an image · Ctrl+F search ·
+Ctrl+1 / Ctrl+2 switch tab · Esc clear the search.
+Closing the window stops the program completely.
+
+HOW INVENTORIES ARE FOUND, AND LIMITS
+The bag and the trunk are found from their slots and position only, without
+reading any text: the game can be in any language. An inventory grid is the
+only area of the screen whose dividers repeat every 62 UI pixels both ways
+(6 columns). The bag is the rightmost grid; a storage (9 rows, level with the
+bag) or a car trunk (8 rows below its two tabs) is the grid on its left. For a
+car, the first tab (trunk) must be active (green); with the second tab
+(cargo) the grid is ignored. The pouch is excluded.
+Only visible items can be recognized. The app cannot read a closed trunk and
+does not keep its old content. For a scrolling storage, scroll and take a new
+screenshot. Stack quantities are not read. The app does not know which
+recipes are currently active at your table. A hidden, very small icon, one
+covered by a tooltip or changed by a game update may be missed; uncertain
+matches are discarded.
+If an inventory is not found (different interface, slots heavily covered):
+1. Analyze an image where this inventory is open.
+2. Right-click the preview (or ⚙ Options) and set the bag or trunk area.
+3. Draw a rectangle around its whole grid, six columns, locked slots
+   included. Each area is remembered separately.
+4. "Restore automatic areas" in the same menu clears the manual areas.
+
+PRIVACY
+Everything is analyzed on your PC. No access to the game process, no
+injection, no keyboard hook (the game uses Easy Anti-Cheat), no account, no
+screenshot sent and no network connection while in use. No automatic start
+with Windows. Only "Open its page" (right-click) opens your browser, on
+request.
+Item icons and texts come from ROB RUN's own files; images belong to their
+owners. Unofficial fan tool.
+Community recipes and item origins: https://robrunstash.vercel.app/
+
+FILES (next to the program)
+settings.json: watched folder and preferences.
+last-result.json: last analysis with names, colors and coordinates.
+application.log: errors, if any.

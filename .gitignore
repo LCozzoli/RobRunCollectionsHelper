@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Created next to the app at run time (personal paths and history)
+settings.json
+settings.tmp
+application.log
+last-result.json
+last-result.tmp
+
+# Test output
+tests/output/

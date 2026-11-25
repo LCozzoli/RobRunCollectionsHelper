@@ -1,0 +1,388 @@
+{
+ "source": "https://robrunstash.vercel.app/fr/items/",
+ "read_on": "2026-11-24",
+ "note": "G = garanti (achat ou fouille), C = chance (emplacements aléatoires, conteneurs, butin).",
+ "items": {
+  "alcohol_1": [
+   "G|Acheter : Barman de l’hôtel, 2 295 $|Hôtel Seasons;Hôtel Reef;Club de strip-tease;Café Ocean Breeze;Café Rusty Burgers",
+   "G|Acheter : Vendeur de la supérette, 2 295 $|Supérette : ouest;Supérette : est;Station-service;Supérette : pont",
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "alcohol_8": [
+   "G|Acheter : Barman de l’hôtel, 2 580 $|Hôtel Seasons;Hôtel Reef;Club de strip-tease;Café Ocean Breeze;Café Rusty Burgers",
+   "G|Acheter : Vendeur de la supérette, 2 580 $|Supérette : ouest;Supérette : est;Station-service;Supérette : pont",
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "alcohol_4": [
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "alcohol_box_1": [
+   "G|Fouiller : Bar|Club de strip-tease~3;Hôtel Seasons~1;Hôtel Reef~1;Café Ocean Breeze~1",
+   "G|Fouiller : Bar (arrière-salle)|Grand hôtel~4",
+   "G|Fouiller : Caisse d’alcool|Café Rusty Burgers~3;Supérette : ouest~2;Supérette : est~2;Station-service~1",
+   "G|Fouiller : Armoire à alcool du bar|Café Ocean Breeze~2",
+   "G|Fouiller : Rayon alcool|Supérette : ouest~4;Supérette : est~4;Station-service~4",
+   "G|Fouiller : Rayonnage d’alcool du magasin|Supérette : pont~5",
+   "G|Fouiller : Rayonnage d’alcool|Café Ocean Breeze~2"
+  ],
+  "car_parts_6": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_parts_2": [
+   "G|Acheter : Mécanicien (pièces auto), 2 475 $|Station-service",
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_parts_4": [
+   "G|Acheter : Mécanicien (pièces auto), 1 845 $|Station-service",
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_spare_parts_1": [
+   "G|Fouiller : Caisse de pièces détachées|Manoir du noble~1;Cottage (#8)~1",
+   "G|Fouiller : Caisse de pièces détachées (arrière-salle)|Station-service~5",
+   "G|Fouiller : Rayonnage de pièces détachées|Manoir du noble~2;Cottage (maison exotique)~2;Cottage d’élite~2;Station-service~2;Cottage (#8)~1",
+   "G|Fouiller : Rayonnage de pièces détachées (arrière-salle)|Station-service~3"
+  ],
+  "equipment_4": [
+   "G|Acheter : Vendeur d’équipement et d’armures, 5 370 $|Magasin d'équipement : ouest;Magasin d'équipement : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "equipment_1": [
+   "G|Acheter : Vendeur d’équipement et d’armures, 3 225 $|Magasin d'équipement : ouest;Magasin d'équipement : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "equipment_2": [
+   "G|Acheter : Vendeur d’équipement et d’armures, 3 525 $|Magasin d'équipement : ouest;Magasin d'équipement : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "equip_carbine_1": [
+   "G|Fouiller : Équipement|Magasin d'équipement : ouest~7;Magasin d'équipement : est~7"
+  ],
+  "weapon_cleaning_1": [
+   "G|Acheter : Vendeur de l’armurerie, 2 775 $|Magasin d'armes : est;Magasin d'armes : ouest",
+   "C|Conteneurs (braquages)|"
+  ],
+  "gun_grease_1": [
+   "G|Acheter : Vendeur de l’armurerie, 2 775 $|Magasin d'armes : est;Magasin d'armes : ouest",
+   "C|Conteneurs (braquages)|"
+  ],
+  "gunpowder_1": [
+   "G|Acheter : Vendeur de l’armurerie, 2 475 $|Magasin d'armes : est;Magasin d'armes : ouest",
+   "C|Conteneurs (braquages)|"
+  ],
+  "weaponparts_box_1": [
+   "G|Fouiller : Rayonnage de munitions (arrière-salle)|Commissariat~3",
+   "G|Fouiller : Table de munitions|Magasin d'armes : est~5;Magasin d'armes : ouest~5"
+  ],
+  "earrings_3": [
+   "G|Acheter : Bijoutier, 2 925 $|Grand hôtel;Bijouterie : est;Bijouterie : ouest",
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "watch_1": [
+   "G|Acheter : Bijoutier, 2 640 $|Grand hôtel;Bijouterie : est;Bijouterie : ouest",
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "necklace_5": [
+   "G|Acheter : Bijoutier, 2 295 $|Grand hôtel;Bijouterie : est;Bijouterie : ouest",
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "jewelry_pouch_1": [
+   "G|Fouiller : Caisse de bijoux|Bijouterie : est~2;Bijouterie : ouest~2",
+   "G|Fouiller : Boucles d’oreilles|Grand hôtel~4",
+   "G|Fouiller : Bijoux|Grand hôtel~6;Bijouterie : est~6;Bijouterie : ouest~6",
+   "G|Fouiller : Colliers|Grand hôtel~5",
+   "G|Fouiller : Bagues|Grand hôtel~2",
+   "G|Fouiller : Montres|Grand hôtel~5"
+  ],
+  "vial_1": [
+   "G|Acheter : Pharmacien, 1 875 $|Pharmacie : ouest;Pharmacie : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "vial_3": [
+   "G|Acheter : Pharmacien, 1 275 $|Pharmacie : ouest;Pharmacie : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "pharma_tools_6": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "pharma_pack_1": [
+   "G|Fouiller : Médicaments|Pharmacie : ouest~7;Pharmacie : est~7",
+   "G|Fouiller : Rayonnage de médicaments (arrière-salle)|Pharmacie : ouest~1;Pharmacie : est~1"
+  ],
+  "electronics_box_1": [
+   "G|Fouiller : Électronique|Magasin d'électronique : ouest~4;Magasin d'électronique : est~4"
+  ],
+  "laptop_1": [
+   "G|Acheter : Vendeur d’électronique, 2 850 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Manoir du noble, Loraine Hills~1;Cottage d’élite, Loraine Hills~1;Cottage (#8), Loraine Hills~1;Club de strip-tease~1;Café Ocean Breeze, Sunny Beach~1;Magasin d'électronique : est, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "phone_1": [
+   "G|Acheter : Vendeur d’électronique, 1 170 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Magasin d'électronique : ouest, Sunny Beach~13;Club de strip-tease~3;Café Ocean Breeze, Sunny Beach~3;Magasin d'électronique : est, Centre-ville~3;Café Rusty Burgers, Centre-ville~3;Cottage (maison exotique), Loraine Hills~2;Hôtel Reef, Sunny Beach~2;Cottage (#8), Loraine Hills~1;Galerie d'art~1",
+   "C|Passe de combat (aléatoire)|Une des récompenses aléatoires du passe de combat de la saison 1 (téléphones)"
+  ],
+  "headphones_1": [
+   "G|Acheter : Vendeur d’électronique, 1 725 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Cottage (maison exotique), Loraine Hills~1;Cottage (#6), Loraine Hills~1;Café Ocean Breeze, Sunny Beach~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "alcohol_7": [
+   "G|Acheter : Barman de l’hôtel, 2 340 $|Hôtel Seasons;Hôtel Reef;Club de strip-tease;Café Ocean Breeze;Café Rusty Burgers",
+   "G|Acheter : Vendeur de la supérette, 2 340 $|Supérette : ouest;Supérette : est;Station-service;Supérette : pont",
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "alcohol_3": [
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "alcohol_9": [
+   "G|Acheter : Barman de l’hôtel, 2 370 $|Hôtel Seasons;Hôtel Reef;Club de strip-tease;Café Ocean Breeze;Café Rusty Burgers",
+   "G|Acheter : Vendeur de la supérette, 2 370 $|Supérette : ouest;Supérette : est;Station-service;Supérette : pont",
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "car_device_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_device_1": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_trinket_1": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "burner_1": [
+   "G|Acheter : Vendeur d’équipement et d’armures, 2 610 $|Magasin d'équipement : ouest;Magasin d'équipement : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "lighter_1": [
+   "G|Acheter : Vendeur d’équipement et d’armures, 1 770 $|Magasin d'équipement : ouest;Magasin d'équipement : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "equip_carbine_2": [
+   "G|Acheter : Vendeur d’équipement et d’armures, 3 075 $|Magasin d'équipement : ouest;Magasin d'équipement : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "weapon_trinket_1": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "weapon_trinket_4": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "blade_1": [
+   "G|Acheter : Vendeur de l’armurerie, 3 780 $|Magasin d'armes : est;Magasin d'armes : ouest",
+   "C|Conteneurs (braquages)|"
+  ],
+  "earrings_4": [
+   "G|Acheter : Bijoutier, 2 985 $|Grand hôtel;Bijouterie : est;Bijouterie : ouest",
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "ring_1": [
+   "G|Acheter : Bijoutier, 1 935 $|Grand hôtel;Bijouterie : est;Bijouterie : ouest",
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "necklace_1": [
+   "G|Acheter : Bijoutier, 3 165 $|Grand hôtel;Bijouterie : est;Bijouterie : ouest",
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "pharma_tools_1": [
+   "G|Acheter : Pharmacien, 1 845 $|Pharmacie : ouest;Pharmacie : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "vial_7": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "condoms_1": [
+   "G|Acheter : Vendeur de la supérette, 1 725 $|Supérette : ouest;Supérette : est;Station-service;Supérette : pont",
+   "G|Acheter : Pharmacien, 1 725 $|Pharmacie : ouest;Pharmacie : est",
+   "C|Conteneurs (braquages)|"
+  ],
+  "console_1": [
+   "G|Acheter : Vendeur d’électronique, 3 525 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Cottage d’élite, Loraine Hills~1;Cottage (#8), Loraine Hills~1;Magasin d'électronique : est, Centre-ville~1"
+  ],
+  "headphones_2": [
+   "G|Acheter : Vendeur d’électronique, 2 595 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Cottage (maison exotique), Loraine Hills~1;Cottage (#6), Loraine Hills~1;Café Ocean Breeze, Sunny Beach~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "phone_2": [
+   "G|Acheter : Vendeur d’électronique, 1 425 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Magasin d'électronique : ouest, Sunny Beach~13;Club de strip-tease~3;Café Ocean Breeze, Sunny Beach~3;Magasin d'électronique : est, Centre-ville~3;Café Rusty Burgers, Centre-ville~3;Cottage (maison exotique), Loraine Hills~2;Hôtel Reef, Sunny Beach~2;Cottage (#8), Loraine Hills~1;Galerie d'art~1",
+   "C|Passe de combat (aléatoire)|Une des récompenses aléatoires du passe de combat de la saison 1 (téléphones)"
+  ],
+  "toy_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "cigar_2": [
+   "C|Objets qui traînent|Hôtel Seasons, Sunny Beach~3;Hôtel Reef, Sunny Beach~3;Club de strip-tease~2"
+  ],
+  "poker_cards_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "alcohol_6": [
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "watch_6": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "necklace_4": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "blade_4": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "gunpowder_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "equip_carbine_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_parts_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_device_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "laptop_3": [
+   "G|Acheter : Vendeur d’électronique, 48 270 $|Magasin d'électronique : ouest;Magasin d'électronique : est",
+   "C|Objets qui traînent|Manoir du noble, Loraine Hills~1;Cottage d’élite, Loraine Hills~1;Cottage (#8), Loraine Hills~1;Club de strip-tease~1;Café Ocean Breeze, Sunny Beach~1;Magasin d'électronique : est, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "antique_1": [
+   "C|Objets qui traînent|Galerie d'art~9"
+  ],
+  "vial_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "pharma_tools_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "console_3": [
+   "C|Objets qui traînent|Cottage d’élite, Loraine Hills~1;Cottage (#8), Loraine Hills~1;Magasin d'électronique : est, Centre-ville~1"
+  ],
+  "headphones_3": [
+   "C|Objets qui traînent|Cottage (maison exotique), Loraine Hills~1;Cottage (#6), Loraine Hills~1;Café Ocean Breeze, Sunny Beach~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "ring_5": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "comics_3": [
+   "C|Butin aléatoire|Apparaît aux emplacements de butin aléatoire et lors des événements"
+  ],
+  "perfume_4": [
+   "C|Butin aléatoire|Apparaît aux emplacements de butin aléatoire et lors des événements"
+  ],
+  "condoms_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_trinket_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_trinket_4": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "alcohol_10": [
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "equipment_10": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "lighter_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "weapon_cleaning_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "gun_grease_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "weapon_trinket_2": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "blade_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "lighter_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "perfume_5": [
+   "C|Butin aléatoire|Apparaît aux emplacements de butin aléatoire et lors des événements"
+  ],
+  "laptop_4": [
+   "C|Objets qui traînent|Manoir du noble, Loraine Hills~1;Cottage d’élite, Loraine Hills~1;Cottage (#8), Loraine Hills~1;Club de strip-tease~1;Café Ocean Breeze, Sunny Beach~1;Magasin d'électronique : est, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "car_trinket_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "ring_6": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "burner_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "poker_cards_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "gunpowder_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_parts_8": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "phone_5": [
+   "C|Objets qui traînent|Magasin d'électronique : ouest, Sunny Beach~13;Club de strip-tease~3;Café Ocean Breeze, Sunny Beach~3;Magasin d'électronique : est, Centre-ville~3;Café Rusty Burgers, Centre-ville~3;Cottage (maison exotique), Loraine Hills~2;Hôtel Reef, Sunny Beach~2;Cottage (#8), Loraine Hills~1;Galerie d'art~1",
+   "C|Passe de combat (aléatoire)|Une des récompenses aléatoires du passe de combat de la saison 1 (téléphones)"
+  ],
+  "equipment_7": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "alcohol_12": [
+   "C|Objets qui traînent|Club de strip-tease~7;Grand hôtel, Sunny Beach~3;Supérette : ouest, Sunny Beach~3;Café Ocean Breeze, Sunny Beach~3;Supérette : est, Centre-ville nord~3;Manoir du noble, Loraine Hills~2;Cottage (maison exotique), Loraine Hills~2;Supérette : pont, Centre-ville central~2;Cottage d’élite, Loraine Hills~1;Cottage (#6), Loraine Hills~1;Cottage (#8), Loraine Hills~1;Hôtel Reef, Sunny Beach~1;Station-service, Centre-ville~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "watch_5": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "condoms_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "headphones_5": [
+   "C|Objets qui traînent|Cottage (maison exotique), Loraine Hills~1;Cottage (#6), Loraine Hills~1;Café Ocean Breeze, Sunny Beach~1;Café Rusty Burgers, Centre-ville~1"
+  ],
+  "equip_carbine_4": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "weapon_trinket_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "comics_5": [
+   "C|Butin aléatoire|Apparaît aux emplacements de butin aléatoire et lors des événements"
+  ],
+  "necklace_6": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "car_parts_1": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "journal_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "earrings_2": [
+   "C|Objets qui traînent|Bijouterie : est, Sunny Beach~14;Bijouterie : ouest, Centre-ville~14;Grand hôtel, Sunny Beach~7"
+  ],
+  "vial_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "pharma_tools_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "gun_grease_3": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "equipment_11": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "toy_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "car_device_5": [
+   "C|Conteneurs (braquages)|"
+  ],
+  "baseball_card_1": [
+   "C|Conteneurs (braquages)|"
+  ]
+ }
+}

@@ -1,0 +1,2988 @@
+{
+ "version": 1,
+ "date": "2026-11-24",
+ "source": "https://robrunstash.vercel.app/collections/",
+ "source_note": "Recettes communautaires du 17 novembre 2026. Icônes et traductions extraites de votre installation du 23 novembre 2026.",
+ "collections": [
+  {
+   "id": 0,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "alcohol_1",
+     "quantity": 1
+    },
+    {
+     "id": "alcohol_8",
+     "quantity": 1
+    },
+    {
+     "id": "alcohol_4",
+     "quantity": 1
+    },
+    {
+     "id": "alcohol_box_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 1,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "car_parts_6",
+     "quantity": 1
+    },
+    {
+     "id": "car_parts_2",
+     "quantity": 1
+    },
+    {
+     "id": "car_parts_4",
+     "quantity": 1
+    },
+    {
+     "id": "car_spare_parts_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "equipment_4",
+     "quantity": 1
+    },
+    {
+     "id": "equipment_1",
+     "quantity": 1
+    },
+    {
+     "id": "equipment_2",
+     "quantity": 1
+    },
+    {
+     "id": "equip_carbine_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "weapon_cleaning_1",
+     "quantity": 1
+    },
+    {
+     "id": "gun_grease_1",
+     "quantity": 1
+    },
+    {
+     "id": "gunpowder_1",
+     "quantity": 1
+    },
+    {
+     "id": "weaponparts_box_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "earrings_3",
+     "quantity": 1
+    },
+    {
+     "id": "watch_1",
+     "quantity": 1
+    },
+    {
+     "id": "necklace_5",
+     "quantity": 1
+    },
+    {
+     "id": "jewelry_pouch_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "vial_1",
+     "quantity": 1
+    },
+    {
+     "id": "vial_3",
+     "quantity": 1
+    },
+    {
+     "id": "pharma_tools_6",
+     "quantity": 1
+    },
+    {
+     "id": "pharma_pack_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "tier": "basic",
+   "slot": "basic",
+   "items": [
+    {
+     "id": "electronics_box_1",
+     "quantity": 10
+    },
+    {
+     "id": "laptop_1",
+     "quantity": 1
+    },
+    {
+     "id": "phone_1",
+     "quantity": 1
+    },
+    {
+     "id": "headphones_1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "alcohol_7",
+     "quantity": 1
+    },
+    {
+     "id": "alcohol_3",
+     "quantity": 1
+    },
+    {
+     "id": "alcohol_9",
+     "quantity": 1
+    },
+    {
+     "id": "alcohol_box_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "car_device_2",
+     "quantity": 1
+    },
+    {
+     "id": "car_device_1",
+     "quantity": 1
+    },
+    {
+     "id": "car_trinket_1",
+     "quantity": 1
+    },
+    {
+     "id": "car_spare_parts_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "equip_carbine_1",
+     "quantity": 10
+    },
+    {
+     "id": "burner_1",
+     "quantity": 1
+    },
+    {
+     "id": "lighter_1",
+     "quantity": 1
+    },
+    {
+     "id": "equip_carbine_2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "weapon_trinket_1",
+     "quantity": 1
+    },
+    {
+     "id": "weapon_trinket_4",
+     "quantity": 1
+    },
+    {
+     "id": "blade_1",
+     "quantity": 1
+    },
+    {
+     "id": "weaponparts_box_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "earrings_4",
+     "quantity": 1
+    },
+    {
+     "id": "ring_1",
+     "quantity": 1
+    },
+    {
+     "id": "necklace_1",
+     "quantity": 1
+    },
+    {
+     "id": "jewelry_pouch_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "pharma_tools_1",
+     "quantity": 1
+    },
+    {
+     "id": "vial_7",
+     "quantity": 1
+    },
+    {
+     "id": "condoms_1",
+     "quantity": 1
+    },
+    {
+     "id": "pharma_pack_1",
+     "quantity": 10
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "tier": "basic",
+   "slot": "additional",
+   "items": [
+    {
+     "id": "electronics_box_1",
+     "quantity": 10
+    },
+    {
+     "id": "console_1",
+     "quantity": 1
+    },
+    {
+     "id": "headphones_2",
+     "quantity": 1
+    },
+    {
+     "id": "phone_2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "toy_3",
+     "quantity": 1
+    },
+    {
+     "id": "cigar_2",
+     "quantity": 1
+    },
+    {
+     "id": "poker_cards_2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "alcohol_6",
+     "quantity": 1
+    },
+    {
+     "id": "watch_6",
+     "quantity": 1
+    },
+    {
+     "id": "necklace_4",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "blade_4",
+     "quantity": 1
+    },
+    {
+     "id": "gunpowder_2",
+     "quantity": 1
+    },
+    {
+     "id": "equip_carbine_3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "car_parts_5",
+     "quantity": 1
+    },
+    {
+     "id": "car_device_3",
+     "quantity": 1
+    },
+    {
+     "id": "laptop_3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "antique_1",
+     "quantity": 1
+    },
+    {
+     "id": "vial_2",
+     "quantity": 1
+    },
+    {
+     "id": "pharma_tools_3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "console_3",
+     "quantity": 1
+    },
+    {
+     "id": "headphones_3",
+     "quantity": 1
+    },
+    {
+     "id": "ring_5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "comics_3",
+     "quantity": 1
+    },
+    {
+     "id": "perfume_4",
+     "quantity": 1
+    },
+    {
+     "id": "condoms_3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "antique_1",
+     "quantity": 1
+    },
+    {
+     "id": "car_trinket_3",
+     "quantity": 1
+    },
+    {
+     "id": "car_trinket_4",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "alcohol_10",
+     "quantity": 4
+    },
+    {
+     "id": "equipment_10",
+     "quantity": 1
+    },
+    {
+     "id": "lighter_3",
+     "quantity": 2
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "tier": "purple",
+   "slot": "purple",
+   "items": [
+    {
+     "id": "weapon_cleaning_2",
+     "quantity": 1
+    },
+    {
+     "id": "gun_grease_2",
+     "quantity": 1
+    },
+    {
+     "id": "weapon_trinket_2",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "blade_5",
+     "quantity": 1
+    },
+    {
+     "id": "lighter_5",
+     "quantity": 1
+    },
+    {
+     "id": "perfume_5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "laptop_4",
+     "quantity": 1
+    },
+    {
+     "id": "car_trinket_5",
+     "quantity": 1
+    },
+    {
+     "id": "ring_6",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "burner_3",
+     "quantity": 1
+    },
+    {
+     "id": "poker_cards_5",
+     "quantity": 1
+    },
+    {
+     "id": "gunpowder_3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "car_parts_8",
+     "quantity": 1
+    },
+    {
+     "id": "phone_5",
+     "quantity": 1
+    },
+    {
+     "id": "equipment_7",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "alcohol_12",
+     "quantity": 1
+    },
+    {
+     "id": "watch_5",
+     "quantity": 1
+    },
+    {
+     "id": "condoms_5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "headphones_5",
+     "quantity": 1
+    },
+    {
+     "id": "equip_carbine_4",
+     "quantity": 1
+    },
+    {
+     "id": "weapon_trinket_3",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "comics_5",
+     "quantity": 1
+    },
+    {
+     "id": "necklace_6",
+     "quantity": 1
+    },
+    {
+     "id": "car_parts_1",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "journal_5",
+     "quantity": 1
+    },
+    {
+     "id": "earrings_2",
+     "quantity": 1
+    },
+    {
+     "id": "vial_5",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "pharma_tools_5",
+     "quantity": 1
+    },
+    {
+     "id": "gun_grease_3",
+     "quantity": 1
+    },
+    {
+     "id": "equipment_11",
+     "quantity": 1
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "tier": "gold",
+   "slot": "gold",
+   "items": [
+    {
+     "id": "toy_5",
+     "quantity": 1
+    },
+    {
+     "id": "car_device_5",
+     "quantity": 1
+    },
+    {
+     "id": "baseball_card_1",
+     "quantity": 1
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "alcohol_1",
+   "name": "Black Pirate Bottle",
+   "tier": "basic",
+   "collections": [
+    0
+   ],
+   "name_fr": "Bouteille Black Pirate",
+   "sprite_size": [
+    107,
+    230
+   ],
+   "names": {
+    "en": "Black Pirate Bottle",
+    "fr": "Bouteille Black Pirate",
+    "de": "Flasche \"Black Pirate\"",
+    "es": "Botella de Black Pirate",
+    "pt": "Garrafa de Black Pirate",
+    "ru": "Бутылка Black Pirate"
+   }
+  },
+  {
+   "id": "alcohol_8",
+   "name": "Severka Bottle",
+   "tier": "basic",
+   "collections": [
+    0
+   ],
+   "name_fr": "Bouteille Severka",
+   "sprite_size": [
+    90,
+    226
+   ],
+   "names": {
+    "en": "Severka Bottle",
+    "fr": "Bouteille Severka",
+    "de": "Severka-Flasche",
+    "es": "Botella de Severka",
+    "pt": "Garrafa de Severka",
+    "ru": "Бутылка Severka"
+   }
+  },
+  {
+   "id": "alcohol_4",
+   "name": "Happy Forester Bottle",
+   "tier": "basic",
+   "collections": [
+    0
+   ],
+   "name_fr": "Bouteille Happy Forester",
+   "sprite_size": [
+    113,
+    225
+   ],
+   "names": {
+    "en": "Happy Forester Bottle",
+    "fr": "Bouteille Happy Forester",
+    "de": "Flasche \"Happy Forester\"",
+    "es": "Botella de Happy Forester",
+    "pt": "Garrafa de Happy Forester",
+    "ru": "Бутылка Happy Forester"
+   }
+  },
+  {
+   "id": "alcohol_box_1",
+   "name": "Alcohol",
+   "tier": "basic",
+   "collections": [
+    0,
+    7
+   ],
+   "name_fr": "Alcool",
+   "sprite_size": [
+    67,
+    124
+   ],
+   "names": {
+    "en": "Alcohol",
+    "fr": "Alcool",
+    "de": "Alkohol",
+    "es": "Alcohol",
+    "pt": "Álcool",
+    "ru": "Алкоголь"
+   }
+  },
+  {
+   "id": "car_parts_6",
+   "name": "Spark Plugs",
+   "tier": "basic",
+   "collections": [
+    1
+   ],
+   "name_fr": "Bougies d'allumage",
+   "sprite_size": [
+    128,
+    101
+   ],
+   "names": {
+    "en": "Spark Plugs",
+    "fr": "Bougies d'allumage",
+    "de": "Zündkerzen",
+    "es": "Bujías",
+    "pt": "Velas de Ignição",
+    "ru": "Автомобильные свечи"
+   }
+  },
+  {
+   "id": "car_parts_2",
+   "name": "Car Headlight",
+   "tier": "basic",
+   "collections": [
+    1
+   ],
+   "name_fr": "Phare de voiture",
+   "sprite_size": [
+    160,
+    124
+   ],
+   "names": {
+    "en": "Car Headlight",
+    "fr": "Phare de voiture",
+    "de": "Autoscheinwerfer",
+    "es": "Faro de automóvil",
+    "pt": "Farol de Carro",
+    "ru": "Автомобильная фара"
+   }
+  },
+  {
+   "id": "car_parts_4",
+   "name": "DW-04",
+   "tier": "basic",
+   "collections": [
+    1
+   ],
+   "name_fr": "DW-04",
+   "sprite_size": [
+    48,
+    121
+   ],
+   "names": {
+    "en": "DW-04",
+    "fr": "DW-04",
+    "de": "DW-04",
+    "es": "DW-04",
+    "pt": "DW-04",
+    "ru": "DW-04"
+   }
+  },
+  {
+   "id": "car_spare_parts_1",
+   "name": "Car Parts",
+   "tier": "basic",
+   "collections": [
+    1,
+    8
+   ],
+   "name_fr": "Pièces automobiles",
+   "sprite_size": [
+    124,
+    115
+   ],
+   "names": {
+    "en": "Car Parts",
+    "fr": "Pièces automobiles",
+    "de": "Autoteile",
+    "es": "Piezas de automóvil",
+    "pt": "Peças de Carro",
+    "ru": "Автомобильные запчасти"
+   }
+  },
+  {
+   "id": "equipment_4",
+   "name": "Field Ration",
+   "tier": "basic",
+   "collections": [
+    2
+   ],
+   "name_fr": "Ration de campagne",
+   "sprite_size": [
+    225,
+    121
+   ],
+   "names": {
+    "en": "Field Ration",
+    "fr": "Ration de campagne",
+    "de": "Feldration",
+    "es": "Ración de campaña",
+    "pt": "Ração de Campanha",
+    "ru": "Индивидуальный сухой паек"
+   }
+  },
+  {
+   "id": "equipment_1",
+   "name": "Laser Rangefinder",
+   "tier": "basic",
+   "collections": [
+    2
+   ],
+   "name_fr": "Télémètre laser",
+   "sprite_size": [
+    118,
+    122
+   ],
+   "names": {
+    "en": "Laser Rangefinder",
+    "fr": "Télémètre laser",
+    "de": "Laser-Entfernungsmesser",
+    "es": "Telémetro láser",
+    "pt": "Telêmetro a Laser",
+    "ru": "Лазерный дальномер"
+   }
+  },
+  {
+   "id": "equipment_2",
+   "name": "Binoculars",
+   "tier": "basic",
+   "collections": [
+    2
+   ],
+   "name_fr": "Jumelles",
+   "sprite_size": [
+    123,
+    104
+   ],
+   "names": {
+    "en": "Binoculars",
+    "fr": "Jumelles",
+    "de": "Fernglas",
+    "es": "Binoculares",
+    "pt": "Binóculo",
+    "ru": "Бинокль"
+   }
+  },
+  {
+   "id": "equip_carbine_1",
+   "name": "Carabiner Set",
+   "tier": "basic",
+   "collections": [
+    2,
+    9
+   ],
+   "name_fr": "Set de mousquetons",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Carabiner Set",
+    "fr": "Set de mousquetons",
+    "de": "Karabinerhaken-Set",
+    "es": "Juego de mosquetones",
+    "pt": "Conjunto de Mosquetões",
+    "ru": "Набор карабинов"
+   }
+  },
+  {
+   "id": "weapon_cleaning_1",
+   "name": "Gun Cleaning Kit",
+   "tier": "basic",
+   "collections": [
+    3
+   ],
+   "name_fr": "Kit de nettoyage d'arme",
+   "sprite_size": [
+    215,
+    126
+   ],
+   "names": {
+    "en": "Gun Cleaning Kit",
+    "fr": "Kit de nettoyage d'arme",
+    "de": "Waffenreinigungsset",
+    "es": "Kit de limpieza de armas",
+    "pt": "Kit de Limpeza de Armas",
+    "ru": "Набор для чистки оружия"
+   }
+  },
+  {
+   "id": "gun_grease_1",
+   "name": "Gun Grease",
+   "tier": "basic",
+   "collections": [
+    3
+   ],
+   "name_fr": "Graisse pour armes",
+   "sprite_size": [
+    39,
+    118
+   ],
+   "names": {
+    "en": "Gun Grease",
+    "fr": "Graisse pour armes",
+    "de": "Waffenfett",
+    "es": "Grasa para armas",
+    "pt": "Graxa para Armas",
+    "ru": "Оружейная смазка"
+   }
+  },
+  {
+   "id": "gunpowder_1",
+   "name": "Basic Gunpowder Kit",
+   "tier": "basic",
+   "collections": [
+    3
+   ],
+   "name_fr": "Kit de poudre noire basique",
+   "sprite_size": [
+    125,
+    124
+   ],
+   "names": {
+    "en": "Basic Gunpowder Kit",
+    "fr": "Kit de poudre noire basique",
+    "de": "Einfaches-Schießpulver-Set",
+    "es": "Kit básico de pólvora",
+    "pt": "Kit de Pólvora Básica",
+    "ru": "Базовый пороховой набор"
+   }
+  },
+  {
+   "id": "weaponparts_box_1",
+   "name": "Weapon Parts",
+   "tier": "basic",
+   "collections": [
+    3,
+    10
+   ],
+   "name_fr": "Pièces d'arme",
+   "sprite_size": [
+    124,
+    123
+   ],
+   "names": {
+    "en": "Weapon Parts",
+    "fr": "Pièces d'arme",
+    "de": "Waffenteile",
+    "es": "Piezas de armas",
+    "pt": "Peças de Arma",
+    "ru": "Детали для оружия"
+   }
+  },
+  {
+   "id": "earrings_3",
+   "name": "SUGI Earrings",
+   "tier": "basic",
+   "collections": [
+    4
+   ],
+   "name_fr": "Boucles d'oreilles SUGI",
+   "sprite_size": [
+    118,
+    91
+   ],
+   "names": {
+    "en": "SUGI Earrings",
+    "fr": "Boucles d'oreilles SUGI",
+    "de": "SUGI-Ohrringe",
+    "es": "Pendientes SUGI",
+    "pt": "Brincos SUGI",
+    "ru": "Серьги SUGI"
+   }
+  },
+  {
+   "id": "watch_1",
+   "name": "PEGIUET Watch",
+   "tier": "basic",
+   "collections": [
+    4
+   ],
+   "name_fr": "Montre PEGIUET",
+   "sprite_size": [
+    124,
+    109
+   ],
+   "names": {
+    "en": "PEGIUET Watch",
+    "fr": "Montre PEGIUET",
+    "de": "PEGIUET-Uhr",
+    "es": "Reloj PEGIUET",
+    "pt": "Relógio PEGIUET",
+    "ru": "Часы PEGIUET"
+   }
+  },
+  {
+   "id": "necklace_5",
+   "name": "CHIPARDI Necklace",
+   "tier": "basic",
+   "collections": [
+    4
+   ],
+   "name_fr": "Collier CHIPARDI",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "CHIPARDI Necklace",
+    "fr": "Collier CHIPARDI",
+    "de": "CHIPARDI-Halskette",
+    "es": "Collar CHIPARDI",
+    "pt": "Colar CHIPARDI",
+    "ru": "Ожерелье CHIPARDI"
+   }
+  },
+  {
+   "id": "jewelry_pouch_1",
+   "name": "Costume Jewelry",
+   "tier": "basic",
+   "collections": [
+    4,
+    11
+   ],
+   "name_fr": "Bijoux fantaisie",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Costume Jewelry",
+    "fr": "Bijoux fantaisie",
+    "de": "Modeschmuck",
+    "es": "Bisutería",
+    "pt": "Bijuterias",
+    "ru": "Бижутерия"
+   }
+  },
+  {
+   "id": "vial_1",
+   "name": "Vial With Supplements",
+   "tier": "basic",
+   "collections": [
+    5
+   ],
+   "name_fr": "Flacon contenant des compléments alimentaires",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Vial With Supplements",
+    "fr": "Flacon contenant des compléments alimentaires",
+    "de": "Fläschchen mit Nahrungsergänzungsmitteln",
+    "es": "Frasco con suplementos",
+    "pt": "Frasco com Suplementos",
+    "ru": "Флакон с витаминами"
+   }
+  },
+  {
+   "id": "vial_3",
+   "name": "Vial With Vaccine",
+   "tier": "basic",
+   "collections": [
+    5
+   ],
+   "name_fr": "Flacon contenant un vaccin",
+   "sprite_size": [
+    123,
+    124
+   ],
+   "names": {
+    "en": "Vial With Vaccine",
+    "fr": "Flacon contenant un vaccin",
+    "de": "Fläschchen mit Impfstoff",
+    "es": "Frasco con vacuna",
+    "pt": "Frasco com Vacina",
+    "ru": "Флакон с вакциной"
+   }
+  },
+  {
+   "id": "pharma_tools_6",
+   "name": "Ophthalmoscope",
+   "tier": "basic",
+   "collections": [
+    5
+   ],
+   "name_fr": "Ophtalmoscope",
+   "sprite_size": [
+    104,
+    116
+   ],
+   "names": {
+    "en": "Ophthalmoscope",
+    "fr": "Ophtalmoscope",
+    "de": "Ophthalmoskop",
+    "es": "Oftalmoscopio",
+    "pt": "Oftalmoscópio",
+    "ru": "Офтальмоскоп"
+   }
+  },
+  {
+   "id": "pharma_pack_1",
+   "name": "Medications",
+   "tier": "basic",
+   "collections": [
+    5,
+    12
+   ],
+   "name_fr": "Médicaments",
+   "sprite_size": [
+    109,
+    124
+   ],
+   "names": {
+    "en": "Medications",
+    "fr": "Médicaments",
+    "de": "Medikamente",
+    "es": "Medicamentos",
+    "pt": "Medicamentos",
+    "ru": "Медикаменты"
+   }
+  },
+  {
+   "id": "electronics_box_1",
+   "name": "Electronics",
+   "tier": "basic",
+   "collections": [
+    6,
+    13
+   ],
+   "name_fr": "Électronique",
+   "sprite_size": [
+    148,
+    124
+   ],
+   "names": {
+    "en": "Electronics",
+    "fr": "Électronique",
+    "de": "Elektronik",
+    "es": "Electrónica",
+    "pt": "Eletrônicos",
+    "ru": "Электроника"
+   }
+  },
+  {
+   "id": "laptop_1",
+   "name": "AIR-P Laptop",
+   "tier": "basic",
+   "collections": [
+    6
+   ],
+   "name_fr": "Ordinateur portable AIR-P",
+   "sprite_size": [
+    232,
+    110
+   ],
+   "names": {
+    "en": "AIR-P Laptop",
+    "fr": "Ordinateur portable AIR-P",
+    "de": "AIR-P-Laptop",
+    "es": "Portátil AIR-P",
+    "pt": "Laptop AIR-P",
+    "ru": "Ноутбук AIR-P"
+   }
+  },
+  {
+   "id": "phone_1",
+   "name": "G-FLOW Smartphone",
+   "tier": "basic",
+   "collections": [
+    6
+   ],
+   "name_fr": "Smartphone G-FLOW",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "G-FLOW Smartphone",
+    "fr": "Smartphone G-FLOW",
+    "de": "G-FLOW-Smartphone",
+    "es": "Smartphone G-FLOW",
+    "pt": "Smartphone G-FLOW",
+    "ru": "Смартфон G-FLOW"
+   }
+  },
+  {
+   "id": "headphones_1",
+   "name": "AIRHEADS Headphones",
+   "tier": "basic",
+   "collections": [
+    6
+   ],
+   "name_fr": "Casque AIRHEADS",
+   "sprite_size": [
+    118,
+    108
+   ],
+   "names": {
+    "en": "AIRHEADS Headphones",
+    "fr": "Casque AIRHEADS",
+    "de": "AIRHEADS-Kopfhörer",
+    "es": "Auriculares AIRHEADS",
+    "pt": "Fones de Ouvido AIRHEADS",
+    "ru": "Наушники AIRHEADS"
+   }
+  },
+  {
+   "id": "alcohol_7",
+   "name": "Fine Wine Bottle",
+   "tier": "basic",
+   "collections": [
+    7
+   ],
+   "name_fr": "Bouteille Fine Wine",
+   "sprite_size": [
+    77,
+    229
+   ],
+   "names": {
+    "en": "Fine Wine Bottle",
+    "fr": "Bouteille Fine Wine",
+    "de": "Flasche \"Fine Wine\"",
+    "es": "Botella de vino selecto",
+    "pt": "Garrafa de Fine Wine",
+    "ru": "Бутылка Fine Wine"
+   }
+  },
+  {
+   "id": "alcohol_3",
+   "name": "Diamond Breeze Bottle",
+   "tier": "basic",
+   "collections": [
+    7
+   ],
+   "name_fr": "Bouteille Diamond Breeze",
+   "sprite_size": [
+    102,
+    231
+   ],
+   "names": {
+    "en": "Diamond Breeze Bottle",
+    "fr": "Bouteille Diamond Breeze",
+    "de": "Flasche \"Diamond Breeze\"",
+    "es": "Botella de Diamond Breeze",
+    "pt": "Garrafa de Diamond Breeze",
+    "ru": "Бутылка Diamond Breeze"
+   }
+  },
+  {
+   "id": "alcohol_9",
+   "name": "Omega Bottle",
+   "tier": "basic",
+   "collections": [
+    7
+   ],
+   "name_fr": "Bouteille Omega",
+   "sprite_size": [
+    118,
+    216
+   ],
+   "names": {
+    "en": "Omega Bottle",
+    "fr": "Bouteille Omega",
+    "de": "Omega-Flasche",
+    "es": "Botella de Omega",
+    "pt": "Garrafa de Omega",
+    "ru": "Бутылка Omega"
+   }
+  },
+  {
+   "id": "car_device_2",
+   "name": "Cheap Car Stereo",
+   "tier": "basic",
+   "collections": [
+    8
+   ],
+   "name_fr": "Autoradio bon marché",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Cheap Car Stereo",
+    "fr": "Autoradio bon marché",
+    "de": "Günstiges Autoradio",
+    "es": "Estéreo para coche barato",
+    "pt": "Som Automotivo Barato",
+    "ru": "Бюджетная магнитола"
+   }
+  },
+  {
+   "id": "car_device_1",
+   "name": "Affordable Dashcam",
+   "tier": "basic",
+   "collections": [
+    8
+   ],
+   "name_fr": "Caméra embarquée abordable",
+   "sprite_size": [
+    97,
+    124
+   ],
+   "names": {
+    "en": "Affordable Dashcam",
+    "fr": "Caméra embarquée abordable",
+    "de": "Preiswerte Dashcam",
+    "es": "Cámara de salpicadero económica",
+    "pt": "Câmera Veicular Econômica",
+    "ru": "Бюджетный видеорегистратор"
+   }
+  },
+  {
+   "id": "car_trinket_1",
+   "name": "Hanging Dice",
+   "tier": "basic",
+   "collections": [
+    8
+   ],
+   "name_fr": "Dés suspendus",
+   "sprite_size": [
+    124,
+    121
+   ],
+   "names": {
+    "en": "Hanging Dice",
+    "fr": "Dés suspendus",
+    "de": "Würfelanhänger",
+    "es": "Dados colgantes",
+    "pt": "Dados Pendurados",
+    "ru": "Подвесные кубики"
+   }
+  },
+  {
+   "id": "burner_1",
+   "name": "Camping Stove",
+   "tier": "basic",
+   "collections": [
+    9
+   ],
+   "name_fr": "Réchaud de camping",
+   "sprite_size": [
+    123,
+    161
+   ],
+   "names": {
+    "en": "Camping Stove",
+    "fr": "Réchaud de camping",
+    "de": "Campingkocher",
+    "es": "Hornillo de camping",
+    "pt": "Fogareiro de Acampamento",
+    "ru": "Походная горелка"
+   }
+  },
+  {
+   "id": "lighter_1",
+   "name": "Snap-Snap Lighter",
+   "tier": "basic",
+   "collections": [
+    9
+   ],
+   "name_fr": "Briquet Snap-Snap",
+   "sprite_size": [
+    96,
+    123
+   ],
+   "names": {
+    "en": "Snap-Snap Lighter",
+    "fr": "Briquet Snap-Snap",
+    "de": "Snap-Snap-Feuerzeug",
+    "es": "Encendedor Snap-Snap",
+    "pt": "Isqueiro Snap-Snap",
+    "ru": "Зажигалка Snap-Snap"
+   }
+  },
+  {
+   "id": "equip_carbine_2",
+   "name": "Steel Carabiner",
+   "tier": "basic",
+   "collections": [
+    9
+   ],
+   "name_fr": "Mousqueton en acier",
+   "sprite_size": [
+    117,
+    125
+   ],
+   "names": {
+    "en": "Steel Carabiner",
+    "fr": "Mousqueton en acier",
+    "de": "Stahlkarabiner",
+    "es": "Mosquetón de acero",
+    "pt": "Mosquetão de Aço",
+    "ru": "Стальной карабин"
+   }
+  },
+  {
+   "id": "weapon_trinket_1",
+   "name": "Gyroscope",
+   "tier": "basic",
+   "collections": [
+    10
+   ],
+   "name_fr": "Gyroscope",
+   "sprite_size": [
+    99,
+    99
+   ],
+   "names": {
+    "en": "Gyroscope",
+    "fr": "Gyroscope",
+    "de": "Gyroskop",
+    "es": "Giroscopio",
+    "pt": "Giroscópio",
+    "ru": "Гироскоп"
+   }
+  },
+  {
+   "id": "weapon_trinket_4",
+   "name": "Modern Compass",
+   "tier": "basic",
+   "collections": [
+    10
+   ],
+   "name_fr": "Boussole moderne",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Modern Compass",
+    "fr": "Boussole moderne",
+    "de": "Moderner Kompass",
+    "es": "Brújula moderna",
+    "pt": "Bússola Moderna",
+    "ru": "Современный компас"
+   }
+  },
+  {
+   "id": "blade_1",
+   "name": "Imperial Collectible Knife",
+   "tier": "basic",
+   "collections": [
+    10
+   ],
+   "name_fr": "Couteau de collection Imperial",
+   "sprite_size": [
+    198,
+    95
+   ],
+   "names": {
+    "en": "Imperial Collectible Knife",
+    "fr": "Couteau de collection Imperial",
+    "de": "Sammlermesser \"Imperial\"",
+    "es": "Cuchillo coleccionable Imperial",
+    "pt": "Faca Colecionável Imperial",
+    "ru": "Коллекционный нож Imperial"
+   }
+  },
+  {
+   "id": "earrings_4",
+   "name": "MAFFI Earrings",
+   "tier": "basic",
+   "collections": [
+    11
+   ],
+   "name_fr": "Boucles d'oreilles MAFFI",
+   "sprite_size": [
+    112,
+    109
+   ],
+   "names": {
+    "en": "MAFFI Earrings",
+    "fr": "Boucles d'oreilles MAFFI",
+    "de": "MAFFI-Ohrringe",
+    "es": "Pendientes MAFFI",
+    "pt": "Brincos MAFFI",
+    "ru": "Серьги MAFFI"
+   }
+  },
+  {
+   "id": "ring_1",
+   "name": "ALON GIA Ring",
+   "tier": "basic",
+   "collections": [
+    11
+   ],
+   "name_fr": "Bague ALON GIA",
+   "sprite_size": [
+    87,
+    92
+   ],
+   "names": {
+    "en": "ALON GIA Ring",
+    "fr": "Bague ALON GIA",
+    "de": "ALON GIA-Ring",
+    "es": "Anillo ALON GIA",
+    "pt": "Anel ALON GIA",
+    "ru": "Кольцо ALON GIA"
+   }
+  },
+  {
+   "id": "necklace_1",
+   "name": "ALON GIA Necklace",
+   "tier": "basic",
+   "collections": [
+    11
+   ],
+   "name_fr": "Collier ALON GIA",
+   "sprite_size": [
+    124,
+    122
+   ],
+   "names": {
+    "en": "ALON GIA Necklace",
+    "fr": "Collier ALON GIA",
+    "de": "ALON GIA-Halskette",
+    "es": "Collar ALON GIA",
+    "pt": "Colar ALON GIA",
+    "ru": "Ожерелье ALON GIA"
+   }
+  },
+  {
+   "id": "pharma_tools_1",
+   "name": "Thermometer",
+   "tier": "basic",
+   "collections": [
+    12
+   ],
+   "name_fr": "Thermomètre",
+   "sprite_size": [
+    105,
+    124
+   ],
+   "names": {
+    "en": "Thermometer",
+    "fr": "Thermomètre",
+    "de": "Thermometer",
+    "es": "Termómetro",
+    "pt": "Termômetro",
+    "ru": "Градусник"
+   }
+  },
+  {
+   "id": "vial_7",
+   "name": "Vial With Illegal Drug",
+   "tier": "basic",
+   "collections": [
+    12
+   ],
+   "name_fr": "Flacon contenant une drogue illégale",
+   "sprite_size": [
+    121,
+    124
+   ],
+   "names": {
+    "en": "Vial With Illegal Drug",
+    "fr": "Flacon contenant une drogue illégale",
+    "de": "Fläschchen mit illegaler Droge",
+    "es": "Frasco con droga ilegal",
+    "pt": "Frasco com Droga Ilegal",
+    "ru": "Флакон с запрещенным лекарством"
+   }
+  },
+  {
+   "id": "condoms_1",
+   "name": "Burex Condoms",
+   "tier": "basic",
+   "collections": [
+    12
+   ],
+   "name_fr": "Préservatifs Burex",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Burex Condoms",
+    "fr": "Préservatifs Burex",
+    "de": "Burex-Kondome",
+    "es": "Preservativos Burex",
+    "pt": "Preservativos Burex",
+    "ru": "Презервативы Burex"
+   }
+  },
+  {
+   "id": "console_1",
+   "name": "Key-Ten-Do Console",
+   "tier": "basic",
+   "collections": [
+    13
+   ],
+   "name_fr": "Console Key-Ten-Do",
+   "sprite_size": [
+    219,
+    124
+   ],
+   "names": {
+    "en": "Key-Ten-Do Console",
+    "fr": "Console Key-Ten-Do",
+    "de": "Key-Ten-Do-Konsole",
+    "es": "Consola Key-Ten-Do",
+    "pt": "Console Key-Ten-Do",
+    "ru": "Консоль Key-Ten-Do"
+   }
+  },
+  {
+   "id": "headphones_2",
+   "name": "MS MIC Headphones",
+   "tier": "basic",
+   "collections": [
+    13
+   ],
+   "name_fr": "Casque MS MIC",
+   "sprite_size": [
+    187,
+    120
+   ],
+   "names": {
+    "en": "MS MIC Headphones",
+    "fr": "Casque MS MIC",
+    "de": "MS-MIC-Kopfhörer",
+    "es": "Auriculares MS MIC",
+    "pt": "Fones de Ouvido MS MIC",
+    "ru": "Наушники MS MIC"
+   }
+  },
+  {
+   "id": "phone_2",
+   "name": "D-MAX Smartphone",
+   "tier": "basic",
+   "collections": [
+    13
+   ],
+   "name_fr": "Smartphone D-MAX",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "D-MAX Smartphone",
+    "fr": "Smartphone D-MAX",
+    "de": "D-MAX-Smartphone",
+    "es": "Smartphone D-MAX",
+    "pt": "Smartphone D-MAX",
+    "ru": "Смартфон D-MAX"
+   }
+  },
+  {
+   "id": "toy_3",
+   "name": "CollectiToy #3 Figure",
+   "tier": "purple",
+   "collections": [
+    14
+   ],
+   "name_fr": "Figurine CollectiToy n°\\u00A03",
+   "sprite_size": [
+    119,
+    222
+   ],
+   "names": {
+    "en": "CollectiToy #3 Figure",
+    "fr": "Figurine CollectiToy n° 3",
+    "de": "CollectiToy #3-Figur",
+    "es": "Figura de CollectiToy #3",
+    "pt": "Boneco CollectiToy #3",
+    "ru": "Игрушка CollectiToy #3"
+   }
+  },
+  {
+   "id": "cigar_2",
+   "name": "Old Huba Cigars",
+   "tier": "purple",
+   "collections": [
+    14
+   ],
+   "name_fr": "Cigares Old Huba",
+   "sprite_size": [
+    148,
+    124
+   ],
+   "names": {
+    "en": "Old Huba Cigars",
+    "fr": "Cigares Old Huba",
+    "de": "Zigarren \"Old Huba\"",
+    "es": "Cigarros Old Huba",
+    "pt": "Charutos Old Huba",
+    "ru": "Сигары Old Huba"
+   }
+  },
+  {
+   "id": "poker_cards_2",
+   "name": "Mystic Card Chronicles Deck",
+   "tier": "purple",
+   "collections": [
+    14
+   ],
+   "name_fr": "Jeu de cartes Chroniques des cartes mystiques",
+   "sprite_size": [
+    124,
+    117
+   ],
+   "names": {
+    "en": "Mystic Card Chronicles Deck",
+    "fr": "Jeu de cartes Chroniques des cartes mystiques",
+    "de": "Kartendeck \"Mystic Card Chronicles\"",
+    "es": "Mazo Mystic Card Chronicles",
+    "pt": "Baralho Mystic Card Chronicles",
+    "ru": "Колода карт Mystic Card Chronicles"
+   }
+  },
+  {
+   "id": "alcohol_6",
+   "name": "Eclipse Bottle",
+   "tier": "purple",
+   "collections": [
+    15
+   ],
+   "name_fr": "Bouteille Eclipse",
+   "sprite_size": [
+    124,
+    222
+   ],
+   "names": {
+    "en": "Eclipse Bottle",
+    "fr": "Bouteille Eclipse",
+    "de": "Eclipse-Flasche",
+    "es": "Botella de Eclipse",
+    "pt": "Garrafa de Eclipse",
+    "ru": "Бутылка Eclipse"
+   }
+  },
+  {
+   "id": "watch_6",
+   "name": "PENARAI Watch",
+   "tier": "purple",
+   "collections": [
+    15
+   ],
+   "name_fr": "Montre PENARAI",
+   "sprite_size": [
+    121,
+    105
+   ],
+   "names": {
+    "en": "PENARAI Watch",
+    "fr": "Montre PENARAI",
+    "de": "PENARAI-Uhr",
+    "es": "Reloj PENARAI",
+    "pt": "Relógio PENARAI",
+    "ru": "Часы PENARAI"
+   }
+  },
+  {
+   "id": "necklace_4",
+   "name": "REFIER Necklace",
+   "tier": "purple",
+   "collections": [
+    15
+   ],
+   "name_fr": "Collier REFIER",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "REFIER Necklace",
+    "fr": "Collier REFIER",
+    "de": "REFIER-Halskette",
+    "es": "Collar REFIER",
+    "pt": "Colar REFIER",
+    "ru": "Ожерелье REFIER"
+   }
+  },
+  {
+   "id": "blade_4",
+   "name": "Cyber Collectible Knife",
+   "tier": "purple",
+   "collections": [
+    16
+   ],
+   "name_fr": "Couteau de collection Cyber",
+   "sprite_size": [
+    227,
+    114
+   ],
+   "names": {
+    "en": "Cyber Collectible Knife",
+    "fr": "Couteau de collection Cyber",
+    "de": "Sammlermesser \"Cyber\"",
+    "es": "Cuchillo coleccionable Cyber",
+    "pt": "Faca Colecionável Cyber",
+    "ru": "Коллекционный нож Cyber"
+   }
+  },
+  {
+   "id": "gunpowder_2",
+   "name": "Standard Gunpowder Kit",
+   "tier": "purple",
+   "collections": [
+    16
+   ],
+   "name_fr": "Kit de poudre noire standard",
+   "sprite_size": [
+    125,
+    124
+   ],
+   "names": {
+    "en": "Standard Gunpowder Kit",
+    "fr": "Kit de poudre noire standard",
+    "de": "Standard-Schießpulver-Set",
+    "es": "Kit estándar de pólvora",
+    "pt": "Kit de Pólvora Padrão",
+    "ru": "Стандартный пороховой набор"
+   }
+  },
+  {
+   "id": "equip_carbine_3",
+   "name": "Reinforced Carabiner",
+   "tier": "purple",
+   "collections": [
+    16
+   ],
+   "name_fr": "Mousqueton renforcé",
+   "sprite_size": [
+    124,
+    128
+   ],
+   "names": {
+    "en": "Reinforced Carabiner",
+    "fr": "Mousqueton renforcé",
+    "de": "Verstärkter Karabiner",
+    "es": "Mosquetón reforzado",
+    "pt": "Mosquetão Reforçado",
+    "ru": "Усиленный карабин"
+   }
+  },
+  {
+   "id": "car_parts_5",
+   "name": "Steering Wheel",
+   "tier": "purple",
+   "collections": [
+    17
+   ],
+   "name_fr": "Volant",
+   "sprite_size": [
+    124,
+    186
+   ],
+   "names": {
+    "en": "Steering Wheel",
+    "fr": "Volant",
+    "de": "Lenkrad",
+    "es": "Volante",
+    "pt": "Volante",
+    "ru": "Руль"
+   }
+  },
+  {
+   "id": "car_device_3",
+   "name": "Dashcam",
+   "tier": "purple",
+   "collections": [
+    17
+   ],
+   "name_fr": "Caméra embarquée",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Dashcam",
+    "fr": "Caméra embarquée",
+    "de": "Dashcam",
+    "es": "Cámara de salpicadero",
+    "pt": "Câmera Veicular",
+    "ru": "Видеорегистратор"
+   }
+  },
+  {
+   "id": "laptop_3",
+   "name": "HUBRID Laptop",
+   "tier": "purple",
+   "collections": [
+    17
+   ],
+   "name_fr": "Ordinateur portable HUBRID",
+   "sprite_size": [
+    192,
+    124
+   ],
+   "names": {
+    "en": "HUBRID Laptop",
+    "fr": "Ordinateur portable HUBRID",
+    "de": "HUBRID-Laptop",
+    "es": "Portátil HUBRID",
+    "pt": "Laptop HUBRID",
+    "ru": "Ноутбук HUBRID"
+   }
+  },
+  {
+   "id": "antique_1",
+   "name": "Deity Statue",
+   "tier": "purple",
+   "collections": [
+    18,
+    21
+   ],
+   "name_fr": "Statue de divinité",
+   "sprite_size": [
+    124,
+    208
+   ],
+   "names": {
+    "en": "Deity Statue",
+    "fr": "Statue de divinité",
+    "de": "Götterstatue",
+    "es": "Estatua de deidad",
+    "pt": "Estátua de Divindade",
+    "ru": "Статуя божества"
+   }
+  },
+  {
+   "id": "vial_2",
+   "name": "Vial With Liquid",
+   "tier": "purple",
+   "collections": [
+    18
+   ],
+   "name_fr": "Flacon contenant un liquide",
+   "sprite_size": [
+    121,
+    124
+   ],
+   "names": {
+    "en": "Vial With Liquid",
+    "fr": "Flacon contenant un liquide",
+    "de": "Fläschchen mit Flüssigkeit",
+    "es": "Frasco con líquido",
+    "pt": "Frasco com Líquido",
+    "ru": "Флакон с жидкостью"
+   }
+  },
+  {
+   "id": "pharma_tools_3",
+   "name": "Glucometer",
+   "tier": "purple",
+   "collections": [
+    18
+   ],
+   "name_fr": "Glucomètre",
+   "sprite_size": [
+    104,
+    119
+   ],
+   "names": {
+    "en": "Glucometer",
+    "fr": "Glucomètre",
+    "de": "Blutzuckermessgerät",
+    "es": "Glucómetro",
+    "pt": "Glicosímetro",
+    "ru": "Глюкометр"
+   }
+  },
+  {
+   "id": "console_3",
+   "name": "ZTX Console",
+   "tier": "purple",
+   "collections": [
+    19
+   ],
+   "name_fr": "Console ZTX",
+   "sprite_size": [
+    124,
+    211
+   ],
+   "names": {
+    "en": "ZTX Console",
+    "fr": "Console ZTX",
+    "de": "ZTX-Konsole",
+    "es": "Consola ZTX",
+    "pt": "Console ZTX",
+    "ru": "Консоль ZTX"
+   }
+  },
+  {
+   "id": "headphones_3",
+   "name": "DS MAX Headphones",
+   "tier": "purple",
+   "collections": [
+    19
+   ],
+   "name_fr": "Casque DS MAX",
+   "sprite_size": [
+    191,
+    124
+   ],
+   "names": {
+    "en": "DS MAX Headphones",
+    "fr": "Casque DS MAX",
+    "de": "DS-MAX-Kopfhörer",
+    "es": "Auriculares DS MAX",
+    "pt": "Fones de Ouvido DS MAX",
+    "ru": "Наушники DS MAX"
+   }
+  },
+  {
+   "id": "ring_5",
+   "name": "MAFFI Ring",
+   "tier": "purple",
+   "collections": [
+    19
+   ],
+   "name_fr": "Bague MAFFI",
+   "sprite_size": [
+    79,
+    89
+   ],
+   "names": {
+    "en": "MAFFI Ring",
+    "fr": "Bague MAFFI",
+    "de": "MAFFI-Ring",
+    "es": "Anillo MAFFI",
+    "pt": "Anel MAFFI",
+    "ru": "Кольцо MAFFI"
+   }
+  },
+  {
+   "id": "comics_3",
+   "name": "DIGITAL SOUL Comic Book",
+   "tier": "purple",
+   "collections": [
+    20
+   ],
+   "name_fr": "Bande dessinée DIGITAL SOUL",
+   "sprite_size": [
+    195,
+    124
+   ],
+   "names": {
+    "en": "DIGITAL SOUL Comic Book",
+    "fr": "Bande dessinée DIGITAL SOUL",
+    "de": "DIGITAL SOUL-Comicbuch",
+    "es": "Cómic de DIGITAL SOUL",
+    "pt": "Gibi DIGITAL SOUL",
+    "ru": "Комикс DIGITAL SOUL"
+   }
+  },
+  {
+   "id": "perfume_4",
+   "name": "LACROCAS Perfume",
+   "tier": "purple",
+   "collections": [
+    20
+   ],
+   "name_fr": "Parfum LACROCAS",
+   "sprite_size": [
+    88,
+    124
+   ],
+   "names": {
+    "en": "LACROCAS Perfume",
+    "fr": "Parfum LACROCAS",
+    "de": "LACROCAS-Parfüm",
+    "es": "Perfume LACROCAS",
+    "pt": "Perfume LACROCAS",
+    "ru": "Парфюм LACROCAS"
+   }
+  },
+  {
+   "id": "condoms_3",
+   "name": "Zipit Condoms",
+   "tier": "purple",
+   "collections": [
+    20
+   ],
+   "name_fr": "Préservatifs Zipit",
+   "sprite_size": [
+    124,
+    119
+   ],
+   "names": {
+    "en": "Zipit Condoms",
+    "fr": "Préservatifs Zipit",
+    "de": "Zipit-Kondome",
+    "es": "Preservativos Zipit",
+    "pt": "Preservativos Zipit",
+    "ru": "Презервативы Zipit"
+   }
+  },
+  {
+   "id": "car_trinket_3",
+   "name": "Car Perfume",
+   "tier": "purple",
+   "collections": [
+    21
+   ],
+   "name_fr": "Parfum pour voiture",
+   "sprite_size": [
+    84,
+    124
+   ],
+   "names": {
+    "en": "Car Perfume",
+    "fr": "Parfum pour voiture",
+    "de": "Autoparfum",
+    "es": "Perfume para coche",
+    "pt": "Perfume Automotivo",
+    "ru": "Автомобильный парфюм"
+   }
+  },
+  {
+   "id": "car_trinket_4",
+   "name": "Racer Keychain",
+   "tier": "purple",
+   "collections": [
+    21
+   ],
+   "name_fr": "Porte-clés de pilote",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Racer Keychain",
+    "fr": "Porte-clés de pilote",
+    "de": "Rennfahrer-Schlüsselanhänger",
+    "es": "Llavero de piloto",
+    "pt": "Chaveiro de Piloto",
+    "ru": "Брелок гонщика"
+   }
+  },
+  {
+   "id": "alcohol_10",
+   "name": "Old Pocket Bottle",
+   "tier": "purple",
+   "collections": [
+    22
+   ],
+   "name_fr": "Bouteille Old Pocket",
+   "sprite_size": [
+    109,
+    232
+   ],
+   "names": {
+    "en": "Old Pocket Bottle",
+    "fr": "Bouteille Old Pocket",
+    "de": "Flasche \"Old Pocket\"",
+    "es": "Botella de Old Pocket",
+    "pt": "Garrafa de Old Pocket",
+    "ru": "Бутылка Old Pocket"
+   }
+  },
+  {
+   "id": "equipment_10",
+   "name": "Premium Multitool",
+   "tier": "purple",
+   "collections": [
+    22
+   ],
+   "name_fr": "Outil multifonction haut de gamme",
+   "sprite_size": [
+    128,
+    127
+   ],
+   "names": {
+    "en": "Premium Multitool",
+    "fr": "Outil multifonction haut de gamme",
+    "de": "Premium-Multitool",
+    "es": "Multiherramienta prémium",
+    "pt": "Multiferramenta Premium",
+    "ru": "Премиальный мультитул"
+   }
+  },
+  {
+   "id": "lighter_3",
+   "name": "RedOlive Lighter",
+   "tier": "purple",
+   "collections": [
+    22
+   ],
+   "name_fr": "Briquet RedOlive",
+   "sprite_size": [
+    97,
+    124
+   ],
+   "names": {
+    "en": "RedOlive Lighter",
+    "fr": "Briquet RedOlive",
+    "de": "RedOlive-Feuerzeug",
+    "es": "Encendedor RedOlive",
+    "pt": "Isqueiro RedOlive",
+    "ru": "Зажигалка RedOlive"
+   }
+  },
+  {
+   "id": "weapon_cleaning_2",
+   "name": "Professional Gun Cleaning Kit",
+   "tier": "purple",
+   "collections": [
+    23
+   ],
+   "name_fr": "Kit professionnel de nettoyage d'armes",
+   "sprite_size": [
+    155,
+    128
+   ],
+   "names": {
+    "en": "Professional Gun Cleaning Kit",
+    "fr": "Kit professionnel de nettoyage d'armes",
+    "de": "Professionelles Waffenreinigungsset",
+    "es": "Kit profesional de limpieza de armas",
+    "pt": "Kit de Limpeza de Armas Profissional",
+    "ru": "Профессиональный набор для чистки оружия"
+   }
+  },
+  {
+   "id": "gun_grease_2",
+   "name": "Professional Gun Grease",
+   "tier": "purple",
+   "collections": [
+    23
+   ],
+   "name_fr": "Graisse professionnelle pour armes",
+   "sprite_size": [
+    66,
+    124
+   ],
+   "names": {
+    "en": "Professional Gun Grease",
+    "fr": "Graisse professionnelle pour armes",
+    "de": "Professionelles Waffenfett",
+    "es": "Grasa profesional para armas",
+    "pt": "Graxa Profissional para Armas",
+    "ru": "Профессиональная оружейная смазка"
+   }
+  },
+  {
+   "id": "weapon_trinket_2",
+   "name": "Ballistic Chronograph",
+   "tier": "purple",
+   "collections": [
+    23
+   ],
+   "name_fr": "Chronographe balistique",
+   "sprite_size": [
+    126,
+    128
+   ],
+   "names": {
+    "en": "Ballistic Chronograph",
+    "fr": "Chronographe balistique",
+    "de": "Ballistischer Chronograph",
+    "es": "Cronógrafo balístico",
+    "pt": "Cronógrafo Balístico",
+    "ru": "Баллистический хронограф"
+   }
+  },
+  {
+   "id": "blade_5",
+   "name": "Nightfall Collectible Knife",
+   "tier": "gold",
+   "collections": [
+    24
+   ],
+   "name_fr": "Couteau de collection Nightfall",
+   "sprite_size": [
+    232,
+    101
+   ],
+   "names": {
+    "en": "Nightfall Collectible Knife",
+    "fr": "Couteau de collection Nightfall",
+    "de": "Sammlermesser \"Nightfall\"",
+    "es": "Cuchillo coleccionable Nightfall",
+    "pt": "Faca Colecionável Nightfall",
+    "ru": "Коллекционный нож Nightfall"
+   }
+  },
+  {
+   "id": "lighter_5",
+   "name": "SkyDragon Lighter",
+   "tier": "gold",
+   "collections": [
+    24
+   ],
+   "name_fr": "Briquet SkyDragon",
+   "sprite_size": [
+    71,
+    124
+   ],
+   "names": {
+    "en": "SkyDragon Lighter",
+    "fr": "Briquet SkyDragon",
+    "de": "SkyDragon-Feuerzeug",
+    "es": "Encendedor SkyDragon",
+    "pt": "Isqueiro SkyDragon",
+    "ru": "Зажигалка SkyDragon"
+   }
+  },
+  {
+   "id": "perfume_5",
+   "name": "DUCHEE Perfume",
+   "tier": "gold",
+   "collections": [
+    24
+   ],
+   "name_fr": "Parfum DUCHEE",
+   "sprite_size": [
+    103,
+    116
+   ],
+   "names": {
+    "en": "DUCHEE Perfume",
+    "fr": "Parfum DUCHEE",
+    "de": "DUCHEE-Parfüm",
+    "es": "Perfume DUCHEE",
+    "pt": "Perfume DUCHEE",
+    "ru": "Парфюм DUCHEE"
+   }
+  },
+  {
+   "id": "laptop_4",
+   "name": "PD STATION Laptop",
+   "tier": "gold",
+   "collections": [
+    25
+   ],
+   "name_fr": "Ordinateur portable PD STATION",
+   "sprite_size": [
+    232,
+    121
+   ],
+   "names": {
+    "en": "PD STATION Laptop",
+    "fr": "Ordinateur portable PD STATION",
+    "de": "PD-STATION-Laptop",
+    "es": "Portátil PD STATION",
+    "pt": "Laptop PD STATION",
+    "ru": "Ноутбук PD STATION"
+   }
+  },
+  {
+   "id": "car_trinket_5",
+   "name": "Pit Bull Bobblehead",
+   "tier": "gold",
+   "collections": [
+    25
+   ],
+   "name_fr": "Figurine à tête branlante Pitbull",
+   "sprite_size": [
+    112,
+    124
+   ],
+   "names": {
+    "en": "Pit Bull Bobblehead",
+    "fr": "Figurine à tête branlante Pitbull",
+    "de": "Pitbull-Wackelkopf",
+    "es": "Muñeco cabezón de pitbull",
+    "pt": "Bobblehead Pitbull",
+    "ru": "Бобблхед \"Питбуль\""
+   }
+  },
+  {
+   "id": "ring_6",
+   "name": "PRIDE Ring",
+   "tier": "gold",
+   "collections": [
+    25
+   ],
+   "name_fr": "Bague FIERTÉ",
+   "sprite_size": [
+    82,
+    94
+   ],
+   "names": {
+    "en": "PRIDE Ring",
+    "fr": "Bague FIERTÉ",
+    "de": "PRIDE-Ring",
+    "es": "Anillo PRIDE",
+    "pt": "Anel PRIDE",
+    "ru": "Кольцо PRIDE"
+   }
+  },
+  {
+   "id": "burner_3",
+   "name": "High-precision Stove",
+   "tier": "gold",
+   "collections": [
+    26
+   ],
+   "name_fr": "Réchaud de haute précision",
+   "sprite_size": [
+    123,
+    197
+   ],
+   "names": {
+    "en": "High-precision Stove",
+    "fr": "Réchaud de haute précision",
+    "de": "Hochpräziser Kocher",
+    "es": "Hornillo de alta precisión",
+    "pt": "Fogareiro de Alta Precisão",
+    "ru": "Высокоточная горелка"
+   }
+  },
+  {
+   "id": "poker_cards_5",
+   "name": "Joker's Choice Deck",
+   "tier": "gold",
+   "collections": [
+    26
+   ],
+   "name_fr": "Jeu de cartes Le choix du Joker",
+   "sprite_size": [
+    124,
+    115
+   ],
+   "names": {
+    "en": "Joker's Choice Deck",
+    "fr": "Jeu de cartes Le choix du Joker",
+    "de": "Joker's Choice-Deck",
+    "es": "Mazo Joker's Choice",
+    "pt": "Baralho Joker's Choice",
+    "ru": "Колода карт Joker's Choice"
+   }
+  },
+  {
+   "id": "gunpowder_3",
+   "name": "Refined Gunpowder Kit",
+   "tier": "gold",
+   "collections": [
+    26
+   ],
+   "name_fr": "Kit de poudre noire raffiné",
+   "sprite_size": [
+    125,
+    124
+   ],
+   "names": {
+    "en": "Refined Gunpowder Kit",
+    "fr": "Kit de poudre noire raffiné",
+    "de": "Veredeltes-Schießpulver-Set",
+    "es": "Kit de pólvora refinada",
+    "pt": "Kit de Pólvora Refinada",
+    "ru": "Очищенный пороховой набор"
+   }
+  },
+  {
+   "id": "car_parts_8",
+   "name": "Premium Car Compressor",
+   "tier": "gold",
+   "collections": [
+    27
+   ],
+   "name_fr": "Compresseur automobile haut de gamme",
+   "sprite_size": [
+    220,
+    128
+   ],
+   "names": {
+    "en": "Premium Car Compressor",
+    "fr": "Compresseur automobile haut de gamme",
+    "de": "Premium-Autokompressor",
+    "es": "Compresor para coche prémium",
+    "pt": "Compressor Automotivo Premium",
+    "ru": "Премиальный автомобильный компрессор"
+   }
+  },
+  {
+   "id": "phone_5",
+   "name": "Tuver Phone",
+   "tier": "gold",
+   "collections": [
+    27
+   ],
+   "name_fr": "Téléphone Tuver",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Tuver Phone",
+    "fr": "Téléphone Tuver",
+    "de": "Tuver-Telefon",
+    "es": "Teléfono Tuver",
+    "pt": "Telefone Tuver",
+    "ru": "Телефон Tuver"
+   }
+  },
+  {
+   "id": "equipment_7",
+   "name": "Modern Tactical Binoculars",
+   "tier": "gold",
+   "collections": [
+    27
+   ],
+   "name_fr": "Jumelles tactiques modernes",
+   "sprite_size": [
+    124,
+    116
+   ],
+   "names": {
+    "en": "Modern Tactical Binoculars",
+    "fr": "Jumelles tactiques modernes",
+    "de": "Modernes taktisches Fernglas",
+    "es": "Binoculares tácticos modernos",
+    "pt": "Binóculo Tático Moderno",
+    "ru": "Современный тактический бинокль"
+   }
+  },
+  {
+   "id": "alcohol_12",
+   "name": "Krystal Authority Bottle",
+   "tier": "gold",
+   "collections": [
+    28
+   ],
+   "name_fr": "Bouteille Krystal Authority",
+   "sprite_size": [
+    103,
+    232
+   ],
+   "names": {
+    "en": "Krystal Authority Bottle",
+    "fr": "Bouteille Krystal Authority",
+    "de": "Flasche \"Krystal Authority\"",
+    "es": "Botella de Krystal Authority",
+    "pt": "Garrafa de Krystal Authority",
+    "ru": "Бутылка Krystal Authority"
+   }
+  },
+  {
+   "id": "watch_5",
+   "name": "POLEX Watch",
+   "tier": "gold",
+   "collections": [
+    28
+   ],
+   "name_fr": "Montre POLEX",
+   "sprite_size": [
+    124,
+    110
+   ],
+   "names": {
+    "en": "POLEX Watch",
+    "fr": "Montre POLEX",
+    "de": "POLEX-Uhr",
+    "es": "Reloj POLEX",
+    "pt": "Relógio POLEX",
+    "ru": "Часы POLEX"
+   }
+  },
+  {
+   "id": "condoms_5",
+   "name": "Playgirl Condoms",
+   "tier": "gold",
+   "collections": [
+    28
+   ],
+   "name_fr": "Préservatifs Playgirl",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "Playgirl Condoms",
+    "fr": "Préservatifs Playgirl",
+    "de": "Playgirl-Kondome",
+    "es": "Preservativos Playgirl",
+    "pt": "Preservativos Playgirl",
+    "ru": "Презервативы Playgirl"
+   }
+  },
+  {
+   "id": "headphones_5",
+   "name": "Beat Head Headphones",
+   "tier": "gold",
+   "collections": [
+    29
+   ],
+   "name_fr": "Casque Beat Head",
+   "sprite_size": [
+    207,
+    124
+   ],
+   "names": {
+    "en": "Beat Head Headphones",
+    "fr": "Casque Beat Head",
+    "de": "Kopfhörer \"Beat Head\"",
+    "es": "Auriculares Beat Head",
+    "pt": "Fones de Ouvido Beat Head",
+    "ru": "Наушники Beat Head"
+   }
+  },
+  {
+   "id": "equip_carbine_4",
+   "name": "Tactical Carabiner",
+   "tier": "gold",
+   "collections": [
+    29
+   ],
+   "name_fr": "Mousqueton tactique",
+   "sprite_size": [
+    128,
+    128
+   ],
+   "names": {
+    "en": "Tactical Carabiner",
+    "fr": "Mousqueton tactique",
+    "de": "Taktischer Karabiner",
+    "es": "Mosquetón táctico",
+    "pt": "Mosquetão Tático",
+    "ru": "Тактический карабин"
+   }
+  },
+  {
+   "id": "weapon_trinket_3",
+   "name": "Drone Controller",
+   "tier": "gold",
+   "collections": [
+    29
+   ],
+   "name_fr": "Télécommande de drone",
+   "sprite_size": [
+    128,
+    128
+   ],
+   "names": {
+    "en": "Drone Controller",
+    "fr": "Télécommande de drone",
+    "de": "Drohnensteuerung",
+    "es": "Controlador de dron",
+    "pt": "Controle do Drone",
+    "ru": "Пульт управления дроном"
+   }
+  },
+  {
+   "id": "comics_5",
+   "name": "MASK Comic Book",
+   "tier": "gold",
+   "collections": [
+    30
+   ],
+   "name_fr": "Bande dessinée MASK",
+   "sprite_size": [
+    198,
+    124
+   ],
+   "names": {
+    "en": "MASK Comic Book",
+    "fr": "Bande dessinée MASK",
+    "de": "MASK-Comicbuch",
+    "es": "Cómic de MASK",
+    "pt": "Gibi MASK",
+    "ru": "Комикс MASK"
+   }
+  },
+  {
+   "id": "necklace_6",
+   "name": "PENARAI Necklace",
+   "tier": "gold",
+   "collections": [
+    30
+   ],
+   "name_fr": "Collier PENARAI",
+   "sprite_size": [
+    124,
+    124
+   ],
+   "names": {
+    "en": "PENARAI Necklace",
+    "fr": "Collier PENARAI",
+    "de": "PENARAI-Halskette",
+    "es": "Collar PENARAI",
+    "pt": "Colar PENARAI",
+    "ru": "Ожерелье PENARAI"
+   }
+  },
+  {
+   "id": "car_parts_1",
+   "name": "Royal Motors Emblem",
+   "tier": "gold",
+   "collections": [
+    30
+   ],
+   "name_fr": "Emblème de Royal Motors",
+   "sprite_size": [
+    117,
+    102
+   ],
+   "names": {
+    "en": "Royal Motors Emblem",
+    "fr": "Emblème de Royal Motors",
+    "de": "Emblem von Royal Motors",
+    "es": "Emblema de Royal Motors",
+    "pt": "Emblema da Royal Motors",
+    "ru": "Значок Royal Motors"
+   }
+  },
+  {
+   "id": "journal_5",
+   "name": "OPALINE Magazine",
+   "tier": "gold",
+   "collections": [
+    31
+   ],
+   "name_fr": "Magazine OPALINE",
+   "sprite_size": [
+    216,
+    124
+   ],
+   "names": {
+    "en": "OPALINE Magazine",
+    "fr": "Magazine OPALINE",
+    "de": "OPALINE-Magazin",
+    "es": "Revista OPALINE",
+    "pt": "Revista OPALINE",
+    "ru": "Журнал OPALINE"
+   }
+  },
+  {
+   "id": "earrings_2",
+   "name": "AMINA Earrings",
+   "tier": "gold",
+   "collections": [
+    31
+   ],
+   "name_fr": "Boucles d'oreilles AMINA",
+   "sprite_size": [
+    101,
+    91
+   ],
+   "names": {
+    "en": "AMINA Earrings",
+    "fr": "Boucles d'oreilles AMINA",
+    "de": "AMINA-Ohrringe",
+    "es": "Pendientes AMINA",
+    "pt": "Brincos AMINA",
+    "ru": "Серьги AMINA"
+   }
+  },
+  {
+   "id": "vial_5",
+   "name": "Cosmetic Ampule",
+   "tier": "gold",
+   "collections": [
+    31
+   ],
+   "name_fr": "Ampoule cosmétique",
+   "sprite_size": [
+    119,
+    124
+   ],
+   "names": {
+    "en": "Cosmetic Ampule",
+    "fr": "Ampoule cosmétique",
+    "de": "Kosmetische Ampulle",
+    "es": "Ampolla cosmética",
+    "pt": "Ampola Cosmética",
+    "ru": "Косметическая ампула"
+   }
+  },
+  {
+   "id": "pharma_tools_5",
+   "name": "Dental Loupes",
+   "tier": "gold",
+   "collections": [
+    32
+   ],
+   "name_fr": "Loupes dentaires",
+   "sprite_size": [
+    128,
+    127
+   ],
+   "names": {
+    "en": "Dental Loupes",
+    "fr": "Loupes dentaires",
+    "de": "Dental-Lupen",
+    "es": "Lupas dentales",
+    "pt": "Lupas Odontológicas",
+    "ru": "Бинокуляры"
+   }
+  },
+  {
+   "id": "gun_grease_3",
+   "name": "Synthetic Gun Grease",
+   "tier": "gold",
+   "collections": [
+    32
+   ],
+   "name_fr": "Graisse synthétique pour armes",
+   "sprite_size": [
+    67,
+    124
+   ],
+   "names": {
+    "en": "Synthetic Gun Grease",
+    "fr": "Graisse synthétique pour armes",
+    "de": "Synthetisches Waffenfett",
+    "es": "Grasa sintética para armas",
+    "pt": "Graxa Sintética para Armas",
+    "ru": "Синтетическая оружейная смазка"
+   }
+  },
+  {
+   "id": "equipment_11",
+   "name": "Collectible Multitool",
+   "tier": "gold",
+   "collections": [
+    32
+   ],
+   "name_fr": "Outil multifonction de collection",
+   "sprite_size": [
+    128,
+    125
+   ],
+   "names": {
+    "en": "Collectible Multitool",
+    "fr": "Outil multifonction de collection",
+    "de": "Sammler-Multitool",
+    "es": "Multiherramienta coleccionable",
+    "pt": "Multiferramenta Colecionável",
+    "ru": "Коллекционный мультитул"
+   }
+  },
+  {
+   "id": "toy_5",
+   "name": "CollectiToy x TA",
+   "tier": "gold",
+   "collections": [
+    33
+   ],
+   "name_fr": "CollectiToy x TA",
+   "sprite_size": [
+    124,
+    232
+   ],
+   "names": {
+    "en": "CollectiToy x TA",
+    "fr": "CollectiToy x TA",
+    "de": "CollectiToy x TA",
+    "es": "CollectiToy x TA",
+    "pt": "CollectiToy x TA",
+    "ru": "CollectiToy x TA"
+   }
+  },
+  {
+   "id": "car_device_5",
+   "name": "Premium Dashcam",
+   "tier": "gold",
+   "collections": [
+    33
+   ],
+   "name_fr": "Caméra embarquée haut de gamme",
+   "sprite_size": [
+    190,
+    124
+   ],
+   "names": {
+    "en": "Premium Dashcam",
+    "fr": "Caméra embarquée haut de gamme",
+    "de": "Premium-Dashcam",
+    "es": "Cámara de salpicadero prémium",
+    "pt": "Câmera Veicular Premium",
+    "ru": "Премиальный видеорегистратор"
+   }
+  },
+  {
+   "id": "baseball_card_1",
+   "name": "Eason McKinley Card",
+   "tier": "gold",
+   "collections": [
+    33
+   ],
+   "name_fr": "Carte avec Eason McKinley",
+   "sprite_size": [
+    124,
+    117
+   ],
+   "names": {
+    "en": "Eason McKinley Card",
+    "fr": "Carte avec Eason McKinley",
+    "de": "Eason-McKinley-Karte",
+    "es": "Carta de Eason McKinley",
+    "pt": "Carta de Eason McKinley",
+    "ru": "Карточка с Эйсоном Маккинли"
+   }
+  }
+ ]
+}

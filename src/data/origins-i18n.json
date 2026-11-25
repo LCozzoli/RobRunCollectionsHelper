@@ -1,0 +1,485 @@
+{
+ "Magasin d'équipement : est": {
+  "en": "Equipment Store: East",
+  "de": "Ausrüstungsgeschäft: Ost",
+  "es": "Tienda de equipamiento: Este",
+  "pt": "Loja de Equipamentos: Leste",
+  "ru": "Магазин экипировки: Восток"
+ },
+ "Sunny Beach": {
+  "en": "Sunny Beach",
+  "de": "Sunny Beach",
+  "es": "Playa Soleada",
+  "pt": "Recanto do Sol",
+  "ru": "Санни-Бич"
+ },
+ "Galerie d'art": {
+  "en": "Art Gallery",
+  "de": "Kunstgalerie",
+  "es": "Galería de arte",
+  "pt": "Galeria de Arte",
+  "ru": "Арт-галерея"
+ },
+ "Loraine Hills": {
+  "en": "Loraine Hills",
+  "de": "Loraine Hills",
+  "es": "Loraine Hills",
+  "pt": "Loraine Hills",
+  "ru": "Лорейн-Хиллз"
+ },
+ "Pharmacie : ouest": {
+  "en": "Pharmacy: West",
+  "de": "Apotheke: West",
+  "es": "Farmacia: Oeste",
+  "pt": "Farmácia: Oeste",
+  "ru": "Аптека: Запад"
+ },
+ "Médicaments": {
+  "en": "Medications",
+  "de": "Medikamente",
+  "es": "Medicamentos",
+  "pt": "Medicamentos",
+  "ru": "Медикаменты"
+ },
+ "Magasin d'armes : ouest": {
+  "en": "Gun Shop: West",
+  "de": "Waffenladen: West",
+  "es": "Tienda de armas: Oeste",
+  "pt": "Loja de Armas: Oeste",
+  "ru": "Оружейный магазин: Запад"
+ },
+ "Magasin d'armes : est": {
+  "en": "Gun Shop: East",
+  "de": "Waffenladen: Ost",
+  "es": "Tienda de armas: Este",
+  "pt": "Loja de Armas: Leste",
+  "ru": "Оружейный магазин: Восток"
+ },
+ "Magasin d'électronique : ouest": {
+  "en": "Electronics Store: West",
+  "de": "Elektronikgeschäft: West",
+  "es": "Tienda de electrónica: Oeste",
+  "pt": "Loja de Eletrônicos: Oeste",
+  "ru": "Магазин электроники: Запад"
+ },
+ "Bijouterie : est": {
+  "en": "Jewelry Store: East",
+  "de": "Juweliergeschäft: Ost",
+  "es": "Joyería: Este",
+  "pt": "Joalheria: Leste",
+  "ru": "Ювелирный магазин: Восток"
+ },
+ "Centre-ville": {
+  "en": "Downtown",
+  "de": "Innenstadt",
+  "es": "Centro",
+  "pt": "Centro",
+  "ru": "Даунтаун"
+ },
+ "Supérette : est": {
+  "en": "Convenience Store: East",
+  "de": "Minimarkt: Ost",
+  "es": "Tienda de conveniencia: Este",
+  "pt": "Loja de Conveniência: Leste",
+  "ru": "Минимаркет: Восток"
+ },
+ "Café Ocean Breeze": {
+  "en": "Ocean Breeze Café",
+  "de": "Café Meeresbrise",
+  "es": "Café Ocean Breeze",
+  "pt": "Cafeteria Ocean Breeze",
+  "ru": "Кафе Ocean Breeze"
+ },
+ "Supérette : ouest": {
+  "en": "Convenience Store: West",
+  "de": "Minimarkt: West",
+  "es": "Tienda de conveniencia: Oeste",
+  "pt": "Loja de Conveniência: Oeste",
+  "ru": "Минимаркет: Запад"
+ },
+ "Hôtel Reef": {
+  "en": "Reef Hotel",
+  "de": "Reef Hotel",
+  "es": "Hotel Reef",
+  "pt": "Hotel Reef",
+  "ru": "Отель Reef"
+ },
+ "Café Rusty Burgers": {
+  "en": "Rusty Burgers Café",
+  "de": "Café Rusty Burgers",
+  "es": "Café Rusty Burgers",
+  "pt": "Cafeteria Rusty Burgers",
+  "ru": "Кафе Rusty Burgers"
+ },
+ "Commissariat": {
+  "en": "Police Station",
+  "de": "Polizeirevier",
+  "es": "Comisaría de policía",
+  "pt": "Delegacia",
+  "ru": "Полицейский участок"
+ },
+ "Électronique": {
+  "en": "Electronics",
+  "de": "Elektronik",
+  "es": "Electrónica",
+  "pt": "Eletrônicos",
+  "ru": "Электроника"
+ },
+ "Rayonnage d’alcool": {
+  "en": "Alcohol Rack",
+  "de": "Alkoholregal",
+  "es": "Estantería para bebidas alcohólicas",
+  "pt": "Estante de Álcool",
+  "ru": "Стеллаж с алкоголем"
+ },
+ "Caisse de pièces détachées": {
+  "en": "Spare Parts Crate",
+  "de": "Ersatzteilkiste",
+  "es": "Cajón de repuestos",
+  "pt": "Caixote de Peças de Reposição",
+  "ru": "Ящик с запчастями"
+ },
+ "Magasin d'électronique : est": {
+  "en": "Electronics Store: East",
+  "de": "Elektronikgeschäft: Ost",
+  "es": "Tienda de electrónica: Este",
+  "pt": "Loja de Eletrônicos: Leste",
+  "ru": "Магазин электроники: Восток"
+ },
+ "Cottage d’élite": {
+  "en": "Elite Cottage",
+  "de": "Luxus-Ferienhaus",
+  "es": "Casa de campo de lujo",
+  "pt": "Chalé de Elite",
+  "ru": "Элитный коттедж"
+ },
+ "Bijoux": {
+  "en": "Jewelry",
+  "de": "Schmuck",
+  "es": "Joyería",
+  "pt": "Joias",
+  "ru": "Украшения"
+ },
+ "Bijouterie : ouest": {
+  "en": "Jewelry Store: West",
+  "de": "Juweliergeschäft: West",
+  "es": "Joyería: Oeste",
+  "pt": "Joalheria: Oeste",
+  "ru": "Ювелирный магазин: Запад"
+ },
+ "Magasin d'équipement : ouest": {
+  "en": "Equipment Store: West",
+  "de": "Ausrüstungsgeschäft: West",
+  "es": "Tienda de equipamiento: Oeste",
+  "pt": "Loja de Equipamentos: Oeste",
+  "ru": "Магазин экипировки: Запад"
+ },
+ "Station-service": {
+  "en": "Gas Station",
+  "de": "Tankstelle",
+  "es": "Gasolinera",
+  "pt": "Posto de Gasolina",
+  "ru": "Автозаправка"
+ },
+ "Manoir du noble": {
+  "en": "Noble's Mansion",
+  "de": "Herrenhaus des Adligen",
+  "es": "Mansión del noble",
+  "pt": "Mansão da Nobreza",
+  "ru": "Особняк аристократа"
+ },
+ "Caisse d’alcool": {
+  "en": "Alcohol Crate",
+  "de": "Alkoholkiste",
+  "es": "Cajón de bebidas alcohólicas",
+  "pt": "Caixote de Álcool",
+  "ru": "Ящик с алкоголем"
+ },
+ "Équipement": {
+  "en": "Gear",
+  "de": "Ausrüstung",
+  "es": "Equipamiento",
+  "pt": "Equipamento",
+  "ru": "Снаряжение"
+ },
+ "Club de strip-tease": {
+  "en": "Strip Club",
+  "de": "Stripclub",
+  "es": "Club de striptease",
+  "pt": "Boate",
+  "ru": "Стрип-клуб"
+ },
+ "Hôtel Seasons": {
+  "en": "Seasons Hotel",
+  "de": "Seasons Hotel",
+  "es": "Hotel Seasons",
+  "pt": "Hotel Seasons",
+  "ru": "Отель Seasons"
+ },
+ "Pharmacie : est": {
+  "en": "Pharmacy: East",
+  "de": "Apotheke: Ost",
+  "es": "Farmacia: Este",
+  "pt": "Farmácia: Leste",
+  "ru": "Аптека: Восток"
+ },
+ "Supérette : pont": {
+  "en": "Convenience Store: Bridge",
+  "de": "Minimarkt: Brücke",
+  "es": "Tienda de conveniencia: puente",
+  "pt": "Loja de Conveniência: Ponte",
+  "ru": "Минимаркет: Мост"
+ },
+ "Rayonnage de pièces détachées": {
+  "en": "Spare Parts Rack",
+  "de": "Ersatzteilregal",
+  "es": "Estantería de repuestos",
+  "pt": "Estante de Peças de Reposição",
+  "ru": "Стеллаж с запчастями"
+ },
+ "Grand hôtel": {
+  "en": "Grand Hotel",
+  "de": "Grand Hotel",
+  "es": "Grand Hotel",
+  "pt": "Grand Hotel",
+  "ru": "Гранд-отель"
+ },
+ "Apparaît aux emplacements de butin aléatoire et lors des événements": {
+  "en": "Appears at random loot spots and during events",
+  "de": "Erscheint an zufälligen Beute-Orten und bei Events",
+  "es": "Aparece en puntos de botín aleatorio y durante eventos",
+  "pt": "Aparece em pontos de saque aleatório e durante eventos",
+  "ru": "Появляется в местах случайной добычи и во время событий"
+ },
+ "Armoire à alcool du bar": {
+  "en": "Bar Liquor Cabinet",
+  "de": "Spirituosenschrank der Bar",
+  "es": "Armario de licores del bar",
+  "pt": "Armário de bebidas do bar",
+  "ru": "Шкаф с алкоголем в баре"
+ },
+ "Bagues": {
+  "en": "Rings",
+  "de": "Ringe",
+  "es": "Anillos",
+  "pt": "Anéis",
+  "ru": "Кольца"
+ },
+ "Bar": {
+  "en": "Bar",
+  "de": "Bar",
+  "es": "Barra del bar",
+  "pt": "Bar",
+  "ru": "Бар"
+ },
+ "Bar (arrière-salle)": {
+  "en": "Bar (back room)",
+  "de": "Bar (Hinterzimmer)",
+  "es": "Bar (trastienda)",
+  "pt": "Bar (sala dos fundos)",
+  "ru": "Бар (подсобка)"
+ },
+ "Barman de l’hôtel": {
+  "en": "Hotel Bartender",
+  "de": "Hotel-Barkeeper",
+  "es": "Barman del hotel",
+  "pt": "Barman do hotel",
+  "ru": "Бармен отеля"
+ },
+ "Bijoutier": {
+  "en": "Jeweler",
+  "de": "Juwelier",
+  "es": "Joyero",
+  "pt": "Joalheiro",
+  "ru": "Ювелир"
+ },
+ "Boucles d’oreilles": {
+  "en": "Earrings",
+  "de": "Ohrringe",
+  "es": "Pendientes",
+  "pt": "Brincos",
+  "ru": "Серьги"
+ },
+ "Butin aléatoire": {
+  "en": "Random loot",
+  "de": "Zufällige Beute",
+  "es": "Botín aleatorio",
+  "pt": "Saque aleatório",
+  "ru": "Случайная добыча"
+ },
+ "Caisse de bijoux": {
+  "en": "Jewelry Crate",
+  "de": "Schmuckkiste",
+  "es": "Caja de joyas",
+  "pt": "Caixa de joias",
+  "ru": "Ящик с украшениями"
+ },
+ "Caisse de pièces détachées (arrière-salle)": {
+  "en": "Spare Parts Crate (back room)",
+  "de": "Ersatzteilkiste (Hinterzimmer)",
+  "es": "Caja de repuestos (trastienda)",
+  "pt": "Caixa de peças (sala dos fundos)",
+  "ru": "Ящик с запчастями (подсобка)"
+ },
+ "Centre-ville central": {
+  "en": "Central Downtown",
+  "de": "Innenstadt Mitte",
+  "es": "Centro (central)",
+  "pt": "Centro (central)",
+  "ru": "Центр (середина)"
+ },
+ "Centre-ville nord": {
+  "en": "North Downtown",
+  "de": "Innenstadt Nord",
+  "es": "Centro (norte)",
+  "pt": "Centro (norte)",
+  "ru": "Центр (север)"
+ },
+ "Colliers": {
+  "en": "Necklaces",
+  "de": "Halsketten",
+  "es": "Collares",
+  "pt": "Colares",
+  "ru": "Ожерелья"
+ },
+ "Conteneurs (braquages)": {
+  "en": "Containers (heists)",
+  "de": "Behälter (Überfälle)",
+  "es": "Contenedores (atracos)",
+  "pt": "Contêineres (assaltos)",
+  "ru": "Контейнеры (ограбления)"
+ },
+ "Cottage (#6)": {
+  "en": "Cottage (#6)",
+  "de": "Ferienhaus (#6)",
+  "es": "Casa de campo (#6)",
+  "pt": "Chalé (#6)",
+  "ru": "Коттедж (№6)"
+ },
+ "Cottage (#8)": {
+  "en": "Cottage (#8)",
+  "de": "Ferienhaus (#8)",
+  "es": "Casa de campo (#8)",
+  "pt": "Chalé (#8)",
+  "ru": "Коттедж (№8)"
+ },
+ "Cottage (maison exotique)": {
+  "en": "Cottage (exotic house)",
+  "de": "Ferienhaus (exotisches Haus)",
+  "es": "Casa de campo (casa exótica)",
+  "pt": "Chalé (casa exótica)",
+  "ru": "Коттедж (экзотический дом)"
+ },
+ "Montres": {
+  "en": "Watches",
+  "de": "Uhren",
+  "es": "Relojes",
+  "pt": "Relógios",
+  "ru": "Часы"
+ },
+ "Mécanicien (pièces auto)": {
+  "en": "Mechanic (car parts)",
+  "de": "Mechaniker (Autoteile)",
+  "es": "Mecánico (piezas de coche)",
+  "pt": "Mecânico (peças de carro)",
+  "ru": "Механик (автозапчасти)"
+ },
+ "Objets qui traînent": {
+  "en": "Loose items",
+  "de": "Herumliegende Gegenstände",
+  "es": "Objetos sueltos",
+  "pt": "Itens soltos",
+  "ru": "Валяющиеся предметы"
+ },
+ "Passe de combat (aléatoire)": {
+  "en": "Battle pass (random)",
+  "de": "Battle Pass (zufällig)",
+  "es": "Pase de batalla (aleatorio)",
+  "pt": "Passe de batalha (aleatório)",
+  "ru": "Боевой пропуск (случайно)"
+ },
+ "Pharmacien": {
+  "en": "Pharmacist",
+  "de": "Apotheker",
+  "es": "Farmacéutico",
+  "pt": "Farmacêutico",
+  "ru": "Фармацевт"
+ },
+ "Rayon alcool": {
+  "en": "Alcohol Aisle",
+  "de": "Alkoholregal (Gang)",
+  "es": "Pasillo de alcohol",
+  "pt": "Corredor de bebidas",
+  "ru": "Отдел алкоголя"
+ },
+ "Rayonnage de munitions (arrière-salle)": {
+  "en": "Ammo Rack (back room)",
+  "de": "Munitionsregal (Hinterzimmer)",
+  "es": "Estante de munición (trastienda)",
+  "pt": "Prateleira de munição (sala dos fundos)",
+  "ru": "Стеллаж с патронами (подсобка)"
+ },
+ "Rayonnage de médicaments (arrière-salle)": {
+  "en": "Medicine Rack (back room)",
+  "de": "Medikamentenregal (Hinterzimmer)",
+  "es": "Estante de medicamentos (trastienda)",
+  "pt": "Prateleira de remédios (sala dos fundos)",
+  "ru": "Стеллаж с лекарствами (подсобка)"
+ },
+ "Rayonnage de pièces détachées (arrière-salle)": {
+  "en": "Spare Parts Rack (back room)",
+  "de": "Ersatzteilregal (Hinterzimmer)",
+  "es": "Estante de repuestos (trastienda)",
+  "pt": "Prateleira de peças (sala dos fundos)",
+  "ru": "Стеллаж с запчастями (подсобка)"
+ },
+ "Rayonnage d’alcool du magasin": {
+  "en": "Store Alcohol Rack",
+  "de": "Alkoholregal des Ladens",
+  "es": "Estante de alcohol de la tienda",
+  "pt": "Prateleira de bebidas da loja",
+  "ru": "Стеллаж с алкоголем в магазине"
+ },
+ "Table de munitions": {
+  "en": "Ammo Table",
+  "de": "Munitionstisch",
+  "es": "Mesa de munición",
+  "pt": "Mesa de munição",
+  "ru": "Стол с патронами"
+ },
+ "Une des récompenses aléatoires du passe de combat de la saison 1 (téléphones)": {
+  "en": "One of the random season 1 battle pass rewards (phones)",
+  "de": "Eine der zufälligen Belohnungen des Battle Pass der Saison 1 (Handys)",
+  "es": "Una de las recompensas aleatorias del pase de batalla de la temporada 1 (teléfonos)",
+  "pt": "Uma das recompensas aleatórias do passe de batalha da temporada 1 (celulares)",
+  "ru": "Одна из случайных наград боевого пропуска 1-го сезона (телефоны)"
+ },
+ "Vendeur de la supérette": {
+  "en": "Convenience Store Clerk",
+  "de": "Verkäufer im Minimarkt",
+  "es": "Dependiente del minisúper",
+  "pt": "Atendente da loja de conveniência",
+  "ru": "Продавец минимаркета"
+ },
+ "Vendeur de l’armurerie": {
+  "en": "Gun Shop Seller",
+  "de": "Verkäufer im Waffenladen",
+  "es": "Vendedor de la armería",
+  "pt": "Vendedor da loja de armas",
+  "ru": "Продавец оружейного магазина"
+ },
+ "Vendeur d’électronique": {
+  "en": "Electronics Seller",
+  "de": "Elektronikverkäufer",
+  "es": "Vendedor de electrónica",
+  "pt": "Vendedor de eletrônicos",
+  "ru": "Продавец электроники"
+ },
+ "Vendeur d’équipement et d’armures": {
+  "en": "Gear and Armor Seller",
+  "de": "Verkäufer für Ausrüstung und Rüstungen",
+  "es": "Vendedor de equipo y blindaje",
+  "pt": "Vendedor de equipamentos e armaduras",
+  "ru": "Продавец снаряжения и брони"
+ }
+}
