@@ -102,10 +102,6 @@ in Steam, otherwise Windows' display language. It can be changed in **Options â€
 The installer also follows the Windows language. Interface translations live in
 [`src/data/i18n.json`](src/data/i18n.json); corrections from native speakers are very welcome.
 
-<p align="center">
-  <img src="docs/images/languages.png" width="640" alt="First-screenshot window in English, German and Japanese">
-</p>
-
 ## Privacy and anti-cheat
 
 - Everything runs locally. No account, no telemetry, no network connection while in use (the only exception is
